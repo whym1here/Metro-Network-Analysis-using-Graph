@@ -2,9 +2,11 @@ numpy
 pandas
 matplotlib
 folium
-libpysal
-contextily
 notebook
 scikit-learn
 voila
 jupyterlab
+osmnx
+plotly
+libpysal
+contextily
