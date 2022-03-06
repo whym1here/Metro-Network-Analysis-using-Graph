@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import sys
 import os.path
+import pandas as pd
 
 if os.path.exists("input.txt"):
     sys.stdin = open("input.txt", 'r')
@@ -11,14 +12,6 @@ city_name = "Delhi"
 
 URL = f"https://en.wikipedia.org/wiki/List_of_{city_name}_Metro_stations"
 req = requests.get(URL)
-
-# soup = BeautifulSoup(req.content, 'html5lib') # If this line causes an error, run 'pip install html5lib' or install html5lib
-# fp = open('some.txt', 'w')
-
-# fp.write(soup.prettify())
-# print()
-
-# fp.close()
 
 soup = BeautifulSoup(req.content, 'html5lib')
 
