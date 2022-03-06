@@ -3,23 +3,23 @@
  <head>
   <meta charset="utf-8"/>
   <title>
-   GPS coordinates of Adarsh Nagar metro station, India. Latitude: 28.7181 Longitude: 77.1694
+   GPS coordinates of Ashok Park Main metro station, India. Latitude: 28.6716 Longitude: 77.1550
   </title>
-  <meta content="The Adarsh Nagar (Hindi: आदर्श नगर) Metro Station is located on the Yellow Line of the Delhi Metro.…" name="description"/>
+  <meta content="Ashok Park Main (Hindi: अशोक पार्क मेन) is a station on the Green Line of the Delhi Metro and is located in the West Delhi district of Delhi. It is an ele…" name="description"/>
   <meta content="Map, GPS, coordinates, latitude, longitude, maps, India, DMS, UTM, geohash, coordinate conversion, geolocated articles" name="keywords"/>
   <meta content="Latitude.to" name="author"/>
   <meta content="Latitude.to, all rights reserved." name="dcterms.rights"/>
-  <meta content="GPS coordinates of Adarsh Nagar metro station, India. Latitude: 28.7181 Longitude: 77.1694" name="dcterms.title"/>
-  <meta content="The Adarsh Nagar (Hindi: आदर्श नगर) Metro Station is located on the Yellow Line of the Delhi Metro.…" name="dcterms.subject"/>
+  <meta content="GPS coordinates of Ashok Park Main metro station, India. Latitude: 28.6716 Longitude: 77.1550" name="dcterms.title"/>
+  <meta content="Ashok Park Main (Hindi: अशोक पार्क मेन) is a station on the Green Line of the Delhi Metro and is located in the West Delhi district of Delhi. It is an ele…" name="dcterms.subject"/>
   <meta content="Latitude.to" name="dcterms.creator"/>
-  <meta content="GPS coordinates of Adarsh Nagar metro station, India. Latitude: 28.7181 Longitude: 77.1694" property="og:title"/>
-  <meta content="http://latitude.to:8080/articles-by-country/in/india/79913/adarsh-nagar-metro-station" property="og:url"/>
+  <meta content="GPS coordinates of Ashok Park Main metro station, India. Latitude: 28.6716 Longitude: 77.1550" property="og:title"/>
+  <meta content="http://latitude.to:8080/articles-by-country/in/india/263753/ashok-park-main-metro-station" property="og:url"/>
   <meta content="Latitude.to, maps, geolocated articles, latitude longitude coordinate conversion." property="og:site_name"/>
   <meta content="place" property="og:type"/>
-  <meta content="28.7181" property="place:location:latitude"/>
-  <meta content="77.1694" property="place:location:longitude"/>
-  <meta content="28.7181" property="og:latitude"/>
-  <meta content="77.1694" property="og:longitude"/>
+  <meta content="28.6716" property="place:location:latitude"/>
+  <meta content="77.1550" property="place:location:longitude"/>
+  <meta content="28.6716" property="og:latitude"/>
+  <meta content="77.1550" property="og:longitude"/>
   <meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport"/>
   <meta content="yes" name="apple-mobile-web-app-capable"/>
   <link href="/img/favicon.png" rel="shortcut icon"/>
@@ -116,9 +116,9 @@ enable_page_level_ads: true
        <meta content="3" itemprop="position"/>
       </li>
       <li id="bc-d" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-       <a href="/articles-by-country/in/india/79913/adarsh-nagar-metro-station" itemprop="item" title="Adarsh Nagar metro station">
+       <a href="/articles-by-country/in/india/263753/ashok-park-main-metro-station" itemprop="item" title="Ashok Park Main metro station">
         <span itemprop="name">
-         Adarsh Nagar metro station
+         Ashok Park Main metro station
         </span>
        </a>
        <meta content="4" itemprop="position"/>
@@ -134,7 +134,7 @@ enable_page_level_ads: true
         Latitude and longitude of
        </span>
        <span itemprop="name">
-        Adarsh Nagar metro station
+        Ashok Park Main metro station
        </span>
       </h2>
       <ul class="lang">
@@ -149,24 +149,23 @@ enable_page_level_ads: true
       </ul>
      </div>
      <h2 class="show-satellite-map">
-      <a href="/satellite-map/in/india/79913/adarsh-nagar-metro-station" title="Satellite map of Adarsh Nagar metro station">
+      <a href="/satellite-map/in/india/263753/ashok-park-main-metro-station" title="Satellite map of Ashok Park Main metro station">
        <i class="material-icons">
         
        </i>
-       Satellite map of Adarsh Nagar metro station
+       Satellite map of Ashok Park Main metro station
       </a>
      </h2>
      <div class="desc" itemprop="description">
       <p>
-       The
        <b>
-        Adarsh Nagar
+        Ashok Park Main
        </b>
        (Hindi:
        <span lang="hi" xml:lang="hi">
-        आदर्श नगर
+        अशोक पार्क मेन
        </span>
-       ) Metro Station is located on the Yellow Line of the Delhi Metro.
+       ) is a station on the Green Line of the Delhi Metro and is located in the West Delhi district of Delhi. It is an elevated station and was inaugurated on 2 April 2010. An extension of this branch going towards Kirti Nagar was opened on 27 August 2011. It is an interchange station for both Red Line towards Inderlok and Blue Line towards Kirti Nagar.
       </p>
      </div>
      <div class="publi-side">
@@ -183,23 +182,23 @@ enable_page_level_ads: true
       <b>
        Latitude:
       </b>
-      28° 43' 5.17" N
+      28° 40' 17.77" N
       <br/>
       <b>
        Longitude:
       </b>
-      77° 10' 9.79" E
-      <meta content="28.718104" itemprop="latitude"/>
-      <meta content="77.169385" itemprop="longitude"/>
+      77° 09' 18.04" E
+      <meta content="28.671603" itemprop="latitude"/>
+      <meta content="77.155011" itemprop="longitude"/>
      </p>
-     <a class="get-wikipedia-content" href="https://en.wikipedia.com/wiki/Adarsh%20Nagar%20metro%20station" rel="nofollow" target="_blank" title="Read about Adarsh Nagar metro station, India">
+     <a class="get-wikipedia-content" href="https://en.wikipedia.com/wiki/Ashok%20Park%20Main%20metro%20station" rel="nofollow" target="_blank" title="Read about Ashok Park Main metro station, India">
       <i class="material-icons">
        
       </i>
-      Read about Adarsh Nagar metro station in the Wikipedia
+      Read about Ashok Park Main metro station in the Wikipedia
      </a>
-     <a class="show-satellite-map-on-google" href="https://maps.google.com/maps?q=28.718104,77.169385&amp;ll=28.718104,77.169385&amp;t=k&amp;hl=en&amp;z=8" rel="nofollow" target="_blank" title="Satellite map of Adarsh Nagar metro station in Google Maps">
-      Satellite map of Adarsh Nagar metro station in Google Maps
+     <a class="show-satellite-map-on-google" href="https://maps.google.com/maps?q=28.671603,77.155011&amp;ll=28.671603,77.155011&amp;t=k&amp;hl=en&amp;z=8" rel="nofollow" target="_blank" title="Satellite map of Ashok Park Main metro station in Google Maps">
+      Satellite map of Ashok Park Main metro station in Google Maps
      </a>
     </div>
    </div>
@@ -226,10 +225,10 @@ enable_page_level_ads: true
        </i>
        GPS coordinates of
        <b>
-        Adarsh Nagar metro station, India
+        Ashok Park Main metro station, India
        </b>
       </h1>
-      <a href="#" id="js-download-json-coords" target="_blank" title="GPS Coordinates of Adarsh Nagar metro station, India in JSON">
+      <a href="#" id="js-download-json-coords" target="_blank" title="GPS Coordinates of Ashok Park Main metro station, India in JSON">
        Download as JSON
        <i class="material-icons">
         
@@ -240,25 +239,25 @@ enable_page_level_ads: true
       <label for="DD">
        DD Coordinates
       </label>
-      <input id="DD" name="DD" readonly="readonly" type="text" value="28.718104 77.169385"/>
+      <input id="DD" name="DD" readonly="readonly" type="text" value="28.671603 77.155011"/>
      </div>
      <div class="coord DMS">
       <label for="DMS">
        DMS Coordinates
       </label>
-      <input id="DMS" name="DMS" readonly="readonly" type="text" value="28°43'5.17&quot; N 77°10'9.79&quot; E"/>
+      <input id="DMS" name="DMS" readonly="readonly" type="text" value="28°40'17.77&quot; N 77°09'18.04&quot; E"/>
      </div>
      <div class="coord geohash">
       <label for="GEOHASH">
        GEOHASH Coordinates
       </label>
-      <input id="GEOHASH" name="GEOHASH" readonly="readonly" type="text" value="ttngk5cp1485"/>
+      <input id="GEOHASH" name="GEOHASH" readonly="readonly" type="text" value="ttng5ew84n4j"/>
      </div>
      <div class="coord UTM">
       <label for="UTM">
        UTM Coordinates
       </label>
-      <textarea id="UTM" name="UTM" readonly="readonly">43R 711896.1403012 3178682.7296299</textarea>
+      <textarea id="UTM" name="UTM" readonly="readonly">43R 710584.90553111 3173503.5951402</textarea>
      </div>
     </div>
     <div class="publi-generic responsive">
@@ -310,7 +309,7 @@ enable_page_level_ads: true
    $(document).ready(function() {
 
     var
-      m = L.map('lfmap').setView([28.718104, 77.169385], 8),
+      m = L.map('lfmap').setView([28.671603, 77.155011], 8),
       map_pin = new L.Icon({
         iconUrl: '/img/gmapz/pin-art.png',
         iconSize: [64, 64],
@@ -322,8 +321,8 @@ enable_page_level_ads: true
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(m);
 
-    L.marker([28.718104, 77.169385], {icon: map_pin}).addTo(m)
-        .bindPopup('<p>Adarsh Nagar metro station</p>'); // openPopup()
+    L.marker([28.671603, 77.155011], {icon: map_pin}).addTo(m)
+        .bindPopup('<p>Ashok Park Main metro station</p>'); // openPopup()
 
     
   });
