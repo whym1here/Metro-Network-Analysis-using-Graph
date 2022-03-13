@@ -33,4 +33,4 @@ station_names = list(station_names)
 
 temp_dict = {"Station Names" : station_names}
 df = pd.DataFrame(temp_dict)
-df.to_csv(f'{city_name.lower()}-metro-station-names.csv', index = False)
+df.to_csv(f'../Raw-Data/{city_name.lower()}-metro-station-names.csv', index = False)
