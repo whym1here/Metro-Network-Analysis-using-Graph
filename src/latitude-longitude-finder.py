@@ -4,16 +4,16 @@ import csv
 import sys
 import os.path
 
+# for checking output
 if os.path.exists("input.txt"):
     sys.stdin = open("input.txt", 'r')
 sys.stdout = open("output.txt", 'w')
 
 # CSV file fields
 metro_fields = ["Station Name","Latitude","Longitude"]
-metro_data = []
-city = "Delhi"
-filename = f"..\Dataset\{city}_Metro_Data.csv"
-
+metro_data = [] # list to store station data
+city = "Delhi" # city name
+filename = f"..\dataset\{city.lower()}-metro-data.csv" # filename
 
 # cnt = 0
 def display_save(name,lat,lon) :
