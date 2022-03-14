@@ -1,229 +1,33 @@
-Station Name :  Adarsh Nagar Delhi  Latitude :  28.7165805 Longitude :  77.1704223
-Station Name :  AIIMS Delhi  Latitude :  28.5668602 Longitude :  77.2078058
-Station Name :  Akshardham Delhi  Latitude :  28.61784195 Longitude :  77.27948814325397
-Station Name :  Anand Vihar Delhi  Latitude :  28.6468336 Longitude :  77.3158749
-Station Name :  Arjan Garh Delhi  Latitude :  28.4807352 Longitude :  77.1257622
-Station Name :  Arthala Delhi  Latitude :  24.4812901 Longitude :  74.3604255
-Station Name :  Ashok Park Main Delhi  Latitude :  28.6716045 Longitude :  77.155291
-Station Name :  Ashram Delhi  Latitude :  28.5724231 Longitude :  77.2585979
-Station Name :  Azadpur Delhi  Latitude :  28.7070448 Longitude :  77.1803722
-Station Name :  Badarpur Border Delhi  Latitude :  28.4904999 Longitude :  77.3040379
-Station Name :  Bahadurgarh City Delhi  Latitude :  28.6907783 Longitude :  76.9354807
-Station Name :  Barakhamba Road Delhi  Latitude :  28.6304248 Longitude :  77.2238821
-Station Name :  Bata Chowk Delhi  Latitude :  28.6431142 Longitude :  77.2407196
-Station Name :  Bhikaji Cama Place Delhi  Latitude :  28.5702618 Longitude :  77.1878709
-Station Name :  Botanical Garden Delhi  Latitude :  11.4174416 Longitude :  76.7104874
-Station Name :  Brigadier Hoshiyar Singh Latitude :  28.6974603 Longitude :  76.9192027
-Station Name :  Central Secretariat Delhi  Latitude :  28.6158794 Longitude :  77.2122822
-Station Name :  Chandni Chowk Delhi  Latitude :  28.6584227 Longitude :  77.2303375
-Station Name :  Chawri Bazar Delhi  Latitude :  28.6501706 Longitude :  77.2294377
-Station Name :  Chhatarpur Delhi  Latitude :  28.5067242 Longitude :  77.1750019
-Station Name :  Chirag Delhi Delhi  Latitude :  28.5410914 Longitude :  77.2302907
-Station Name :  Civil Lines Delhi  Latitude :  28.6768508 Longitude :  77.2250299
-Station Name :  Dabri Mor - Janakpuri South Delhi  Latitude :  28.6157555 Longitude :  77.085178
-Station Name :  Dashrath Puri Delhi  Latitude :  28.6018751 Longitude :  77.0823561
-Station Name :  Delhi Aerocity Delhi  Latitude :  28.5487982 Longitude :  77.1208089
-Station Name :  Delhi Cantonment Delhi  Latitude :  28.6086496 Longitude :  77.1404515
-Station Name :  Delhi Gate Delhi  Latitude :  28.6392174 Longitude :  77.2407795
-Station Name :  Dhansa Bus Stand Delhi  Latitude :  28.6119097 Longitude :  76.9784769
-Station Name :  Dhaula Kuan Delhi  Latitude :  28.5918905 Longitude :  77.1617034
-Station Name :  Dilshad Garden Delhi  Latitude :  28.6758257 Longitude :  77.3215163
-Station Name :  Durgabai Deshmukh South Campus Delhi  Latitude :  28.58936815 Longitude :  77.16948963863207
-Station Name :  Dwarka Delhi  Latitude :  28.6149362 Longitude :  77.0227628
-Station Name :  Dwarka Mor Delhi  Latitude :  28.61931 Longitude :  77.0332792
-Station Name :  Dwarka Sector 8 Delhi  Latitude :  28.5656109 Longitude :  77.0670366
-Station Name :  Dwarka Sector 9 Delhi  Latitude :  28.574272 Longitude :  77.0653316
-Station Name :  Dwarka Sector 10 Delhi  Latitude :  28.5810577 Longitude :  77.0574996
-Station Name :  Dwarka Sector 11 Delhi  Latitude :  28.586443 Longitude :  77.0494433
-Station Name :  Dwarka Sector 12 Delhi  Latitude :  28.5922362 Longitude :  77.0407315
-Station Name :  Dwarka Sector 13 Delhi  Latitude :  28.597009 Longitude :  77.0335407
-Station Name :  Dwarka Sector 14 Delhi  Latitude :  28.6022218 Longitude :  77.0259765
-Station Name :  Dwarka Sector 21 Delhi  Latitude :  28.5519218 Longitude :  77.0585605
-Station Name :  Delhi Airport Metro Express Latitude :  28.5564899 Longitude :  77.0867238
-Station Name :  East Azad Nagar Delhi  Latitude :  28.6646964 Longitude :  77.284881
-Station Name :  East Vinod Nagar - Mayur Vihar-II Delhi  Latitude :  28.6200437 Longitude :  77.3054069
-Station Name :  Escorts Mujesar Latitude :  28.370078499999998 Longitude :  77.31492286994653
-Station Name :  ESI Hospital Delhi  Latitude :  28.6580737 Longitude :  77.1272678
-Station Name :  Ghevra Delhi  Latitude :  28.6913435 Longitude :  76.9977711
-Station Name :  Ghitorni Delhi  Latitude :  28.493751 Longitude :  77.1491866
-Station Name :  Gokulpuri Delhi  Latitude :  28.7024752 Longitude :  77.2861253
-Station Name :  Golf Course Delhi  Latitude :  28.639068450000003 Longitude :  77.00014408669394
-Station Name :  Govind Puri Delhi  Latitude :  28.5443766 Longitude :  77.264266
-Station Name :  Greater Kailash Delhi  Latitude :  28.5418724 Longitude :  77.2384643
-Station Name :  Green Park Delhi  Latitude :  28.5580071 Longitude :  77.2067933
-Station Name :  GTB Nagar Delhi  Latitude :  28.6981558 Longitude :  77.2064225
-Station Name :  Guru Dronacharya Latitude :  28.4820212 Longitude :  77.1022685
-Station Name :  Haiderpur Badli Mor Delhi  Latitude :  28.7299398 Longitude :  77.1491044
-Station Name :  Harkesh Nagar Okhla Delhi  Latitude :  28.5432816 Longitude :  77.2756683
-Station Name :  Hauz Khas Delhi  Latitude :  28.5442564 Longitude :  77.2067072
-Station Name :  Hazrat Nizamuddin Delhi  Latitude :  28.5898274 Longitude :  77.2570468
-Station Name :  Hindon River Latitude :  28.6734288 Longitude :  77.4065374
-Station Name :  HUDA City Centre Latitude :  28.4593429 Longitude :  77.0726571
-Station Name :  IFFCO Chowk Delhi  Latitude :  28.4771721 Longitude :  77.0682208
-Station Name :  IIT Delhi Delhi  Latitude :  28.5471399 Longitude :  77.1945754
-Station Name :  INA Delhi  Latitude :  28.5736524 Longitude :  77.2075857
-Station Name :  Inderlok Delhi  Latitude :  28.6727066 Longitude :  77.1691872
-Station Name :  Delhi Airport Delhi  Latitude :  28.551907399999997 Longitude :  77.12111068019476
-Station Name :  Indraprastha Delhi  Latitude :  28.6206019 Longitude :  77.249551
-Station Name :  IP Extension Delhi  Latitude :  28.6318533 Longitude :  77.3107856
-Station Name :  ITO Delhi  Latitude :  28.6281909 Longitude :  77.2410728
-Station Name :  Jaffrabad Delhi  Latitude :  28.6826822 Longitude :  77.2748055
-Station Name :  Jahangirpuri Delhi  Latitude :  28.7259717 Longitude :  77.162658
-Station Name :  Jama Masjid Delhi  Latitude :  28.6500172 Longitude :  77.2376384
-Station Name :  Jamia Millia Islamia Delhi  Latitude :  28.5630488 Longitude :  77.2863387
-Station Name :  Janakpuri East Delhi  Latitude :  28.633021 Longitude :  77.086757
-Station Name :  Janakpuri West Delhi  Latitude :  28.6295839 Longitude :  77.078085
-Station Name :  Jangpura Delhi  Latitude :  28.5830411 Longitude :  77.2393458
-Station Name :  Janpath Delhi  Latitude :  28.6271642 Longitude :  77.2165642
-Station Name :  Jasola Apollo Delhi  Latitude :  28.5384251 Longitude :  77.2830377
-Station Name :  Jasola Vihar Shaheen Bagh Delhi  Latitude :  28.5458279 Longitude :  77.2966578
-Station Name :  Jawaharlal Nehru Stadium Delhi  Latitude :  28.5882285 Longitude :  77.2337552
-Station Name :  Jhandewalan Delhi  Latitude :  28.6443188 Longitude :  77.1999165
-Station Name :  Jhilmil Delhi  Latitude :  28.6757197 Longitude :  77.3123949
-Station Name :  Johri Enclave Delhi  Latitude :  28.7128806 Longitude :  77.2901293
-Station Name :  Jor Bagh Delhi  Latitude :  28.5865979 Longitude :  77.212534
-Station Name :  Kailash Colony Delhi  Latitude :  28.5553298 Longitude :  77.2419637
-Station Name :  Kalindi Kunj Delhi  Latitude :  28.542916 Longitude :  77.3101107
-Station Name :  Kalkaji Mandir Delhi  Latitude :  28.5503728 Longitude :  77.256934
-Station Name :  Kanhaiya Nagar Delhi  Latitude :  28.6824082 Longitude :  77.1647754
-Station Name :  Karkarduma Delhi  Latitude :  28.6483176 Longitude :  77.3055178
-Station Name :  Karkarduma Court Delhi  Latitude :  28.6536001 Longitude :  77.2957877
-Station Name :  Karol Bagh Delhi  Latitude :  28.6440122 Longitude :  77.1885235
-Station Name :  Kashmere Gate Delhi  Latitude :  28.6675343 Longitude :  77.2281803
-Station Name :  Kaushambi Delhi  Latitude :  28.6453286 Longitude :  77.3243485
-Station Name :  Keshav Puram Delhi  Latitude :  28.6889264 Longitude :  77.1616833
-Station Name :  Khan Market Delhi  Latitude :  28.6022446 Longitude :  77.2291281
-Station Name :  Kirti Nagar Delhi  Latitude :  28.6558178 Longitude :  77.1507061
-Station Name :  Krishna Nagar Delhi  Latitude :  28.6578461 Longitude :  77.2901853
-Station Name :  Kohat Enclave Delhi  Latitude :  28.6980415 Longitude :  77.1405393
-Station Name :  Lajpat Nagar Delhi  Latitude :  28.5705968 Longitude :  77.2364011
-Station Name :  Lal Qila Delhi  Latitude :  31.58037855 Longitude :  74.32546105907323
-Station Name :  Laxmi Nagar Delhi  Latitude :  28.6305277 Longitude :  77.2775965
-Station Name :  Lok Kalyan Marg Delhi  Latitude :  28.5973513 Longitude :  77.2110967
-Station Name :  Madipur Delhi  Latitude :  28.6764752 Longitude :  77.1193599
-Station Name :  Surajmal Stadium Delhi  Latitude :  28.6818775 Longitude :  77.074
-Station Name :  Majlis Park Delhi  Latitude :  28.7244312 Longitude :  77.181964
-Station Name :  Major Mohit Sharma Rajendra Nagar Latitude :  28.6776112 Longitude :  77.3581426
-Station Name :  Malviya Nagar Delhi  Latitude :  28.5290656 Longitude :  77.2048241
-Station Name :  Mandawali - West Vinod Nagar Delhi  Latitude :  28.6249712 Longitude :  77.3044906
-Station Name :  Mandi House Delhi  Latitude :  28.6255564 Longitude :  77.2341897
-Station Name :  Mansarovar Park Delhi  Latitude :  28.675340900000002 Longitude :  77.30113304480756
-Station Name :  Maujpur - Babarpur Delhi  Latitude :  28.6920781 Longitude :  77.2796973
-Station Name :  Mayapuri Delhi  Latitude :  28.6371795 Longitude :  77.1297333
-Station Name :  Mayur Vihar-I Delhi  Latitude :  28.6036425 Longitude :  77.2909319
-Station Name :  Mayur Vihar Extension Delhi  Latitude :  28.59419145 Longitude :  77.29462345
-Station Name :  Mayur Vihar Pocket I Delhi  Latitude :  28.6039039 Longitude :  77.2911425
-Station Name :  MG Road Delhi  Latitude :  28.5006956 Longitude :  77.1648731
-Station Name :  Model Town Delhi  Latitude :  28.7027136 Longitude :  77.1939912
-Station Name :  Mohan Estate Delhi  Latitude :  28.5197198 Longitude :  77.2945917
-Station Name :  Mohan Nagar Delhi  Latitude :  28.60631905 Longitude :  77.10608184860985
-Station Name :  Moolchand Delhi  Latitude :  28.5644057 Longitude :  77.2342329
-Station Name :  Moti Nagar Delhi  Latitude :  28.657859 Longitude :  77.1424288
-Station Name :  Mundka Delhi  Latitude :  28.6824341 Longitude :  77.0305741
-Station Name :  Mundka Industrial Area Delhi  Latitude :  28.6834491 Longitude :  77.0171333
-Station Name :  Munirka Delhi  Latitude :  28.5568967 Longitude :  77.1750592
-Station Name :  Najafgarh Delhi  Latitude :  28.6124504 Longitude :  76.9865067
-Station Name :  Nangli Delhi  Latitude :  28.6173003 Longitude :  77.0104375
-Station Name :  Nangloi Delhi  Latitude :  28.6824007 Longitude :  77.0647319
-Station Name :  Nangloi Railway Station Delhi  Latitude :  28.6822009 Longitude :  77.0562463
-Station Name :  Naraina Vihar Delhi  Latitude :  28.6243852 Longitude :  77.1364438
-Station Name :  Nawada Delhi  Latitude :  28.6202758 Longitude :  77.0450787
-Station Name :  Neelam Chowk Ajronda Latitude :  28.3976584 Longitude :  77.31235576454071
-Station Name :  Nehru Enclave Delhi  Latitude :  28.5460584 Longitude :  77.2515057
-Station Name :  Nehru Place Delhi  Latitude :  28.5514171 Longitude :  77.2517386
-Station Name :  Netaji Subhash Place Delhi  Latitude :  28.6947146 Longitude :  77.1542607
-Station Name :  New Ashok Nagar Delhi  Latitude :  28.5890885 Longitude :  77.3015085
-Station Name :  New Delhi Delhi  Latitude :  28.6419258 Longitude :  77.2217499
-Station Name :  Delhi Airport Metro Express Latitude :  28.5564899 Longitude :  77.0867238
-Station Name :  Nirman Vihar Delhi  Latitude :  28.6364928 Longitude :  77.2867943
-Station Name :  Noida City Centre Latitude :  28.5747334 Longitude :  77.3561638
-Station Name :  Noida Electronic City Latitude :  28.6282627 Longitude :  77.3750033
-Station Name :  Noida Sector 15 Latitude :  28.5848835 Longitude :  77.3116118
-Station Name :  Noida Sector 16 Latitude :  28.578081 Longitude :  77.3177778
-Station Name :  Noida Sector 18 Latitude :  28.5707583 Longitude :  77.3260756
-Station Name :  Noida Sector 34 Latitude :  28.5802538 Longitude :  77.3634917
-Station Name :  Noida Sector 52 Latitude :  28.5868739 Longitude :  77.3730237
-Station Name :  Noida Sector 59 Latitude :  28.6065279 Longitude :  77.3726828
-Station Name :  Noida Sector 61 Latitude :  28.5975854 Longitude :  77.3722663
-Station Name :  Noida Sector 62 Latitude :  28.6169861 Longitude :  77.3735885
-Station Name :  Okhla Bird Sanctuary Delhi  Latitude :  28.556986600000002 Longitude :  77.30900309623888
-Station Name :  Okhla NSIC Delhi  Latitude :  28.55451235 Longitude :  77.26494133984127
-Station Name :  Okhla Vihar Delhi  Latitude :  28.5613002 Longitude :  77.2919304
-Station Name :  Old Faridabad Delhi  Latitude :  28.419928149999997 Longitude :  77.31196930573692
-Station Name :  Palam Delhi  Latitude :  28.585353 Longitude :  77.0924713
-Station Name :  Panchsheel Park Delhi  Latitude :  28.5423747 Longitude :  77.2210916
-Station Name :  Pandit Shree Ram Sharma Latitude :  28.689281 Longitude :  76.9511988
-Station Name :  Paschim Vihar East Delhi  Latitude :  28.6773563 Longitude :  77.1122823
-Station Name :  Paschim Vihar West Delhi  Latitude :  28.678613 Longitude :  77.1022154
-Station Name :  Patel Chowk Delhi  Latitude :  28.6237154 Longitude :  77.2130582
-Station Name :  Patel Nagar Delhi  Latitude :  28.6450527 Longitude :  77.1693179
-Station Name :  Peera Garhi Delhi  Latitude :  28.6798074 Longitude :  77.0926793
-Station Name :  Pitam Pura Delhi  Latitude :  28.7032676 Longitude :  77.1322497
-Station Name :  Pratap Nagar Delhi  Latitude :  28.6667177 Longitude :  77.1988974
-Station Name :  Preet Vihar Delhi  Latitude :  28.6414176 Longitude :  77.2952819
-Station Name :  Pul Bangash Delhi  Latitude :  28.6664068 Longitude :  77.2074156
-Station Name :  Punjabi Bagh Delhi  Latitude :  28.672995 Longitude :  77.1461239
-Station Name :  Punjabi Bagh West Delhi  Latitude :  28.6727663 Longitude :  77.1392109
-Station Name :  Qutab Minar Delhi  Latitude :  28.52416565 Longitude :  77.18586290052775
-Station Name :  R.K Puram Delhi  Latitude :  28.5503864 Longitude :  77.1855171
-Station Name :  Raja Nahar Singh Latitude :  28.340002 Longitude :  77.3164509
-Station Name :  Raj Bagh Delhi  Latitude :  28.6989183 Longitude :  77.0530355
-Station Name :  Rajdhani Park Delhi  Latitude :  28.6823085 Longitude :  77.0439437
-Station Name :  Rajendra Place Delhi  Latitude :  28.6424955 Longitude :  77.1782756
-Station Name :  Rajiv Chowk Delhi  Latitude :  28.6327786 Longitude :  77.2196985
-Station Name :  Rajouri Garden Delhi  Latitude :  28.6490563 Longitude :  77.1227198
-Station Name :  Ramakrishna Ashram Marg Delhi  Latitude :  28.6392436 Longitude :  77.2085787
-Station Name :  Ramesh Nagar Delhi  Latitude :  28.6527444 Longitude :  77.1316496
-Station Name :  Rithala Delhi  Latitude :  28.7208064 Longitude :  77.1071813
-Station Name :  Rohini East Delhi  Latitude :  28.7079009 Longitude :  77.1259691
-Station Name :  Rohini Sector 18, 19 Delhi  Latitude :  28.7383477 Longitude :  77.1398323
-Station Name :  Rohini West Delhi  Latitude :  28.7149569 Longitude :  77.115385
-Station Name :  Sadar Bazaar Cantonment Delhi  Latitude :  28.5771509 Longitude :  77.1111533
-Station Name :  Saket Delhi  Latitude :  28.521168 Longitude :  77.2022237
-Station Name :  Samaypur Badli Delhi  Latitude :  28.7446158 Longitude :  77.1382654
-Station Name :  Sant Surdas (Sihi) Latitude :  28.3546659 Longitude :  77.31624738616993
-Station Name :  Sarai Delhi  Latitude :  28.6627515 Longitude :  77.1852561
-Station Name :  Sarita Vihar Delhi  Latitude :  28.528632 Longitude :  77.2884438
-Station Name :  Sarojini Nagar Delhi  Latitude :  28.575817 Longitude :  77.1980786
-Station Name :  Satguru Ramsingh Marg Delhi  Latitude :  28.6619327 Longitude :  77.1574772
-Station Name :  Sector 28 Delhi  Latitude :  28.545256549999998 Longitude :  77.03257608771955
-Station Name :  Seelampur Delhi  Latitude :  28.6698165 Longitude :  77.2668137
-Station Name :  Shadipur Delhi  Latitude :  28.6516362 Longitude :  77.1582947
-Station Name :  Shahdara Delhi  Latitude :  28.6733333 Longitude :  77.2890248
-Station Name :  Shaheed Nagar Delhi  Latitude :  28.61018 Longitude :  77.3728729
-Station Name :  Shaheed Sthal Latitude :  28.6706449 Longitude :  77.4154736
-Station Name :  Shakurpur Delhi  Latitude :  28.6857668 Longitude :  77.1496094
-Station Name :  Shalimar Bagh Delhi  Latitude :  28.7019574 Longitude :  77.1654317
-Station Name :  Shankar Vihar Delhi  Latitude :  28.5608275 Longitude :  77.140254
-Station Name :  Shastri Nagar Delhi  Latitude :  28.6700885 Longitude :  77.1818589
-Station Name :  Shastri Park Delhi  Latitude :  28.6684339 Longitude :  77.2505301
-Station Name :  Shiv Vihar Delhi  Latitude :  28.721381 Longitude :  77.2894599
-Station Name :  Shivaji Park Delhi  Latitude :  28.6750317 Longitude :  77.1304722
-Station Name :  Shivaji Stadium Delhi  Latitude :  28.6326155 Longitude :  77.21389022208382
-Station Name :  Shyam Park Delhi  Latitude :  28.698807199999997 Longitude :  77.26846412516488
-Station Name :  Sikandarpur Delhi  Latitude :  26.0434415 Longitude :  84.0545309
-Station Name :  Sir Vishweshwaraiah Moti Bagh Delhi  Latitude :  28.5785326 Longitude :  77.175741
-Station Name :  South Extension Delhi  Latitude :  28.5685664 Longitude :  77.2205677
-Station Name :  Subhash Nagar Delhi  Latitude :  28.6404593 Longitude :  77.1051815
-Station Name :  Sukhdev Vihar Delhi  Latitude :  28.5597477 Longitude :  77.2749004
-Station Name :  Sultanpur Delhi  Latitude :  28.4991235 Longitude :  77.1613745
-Station Name :  Supreme Court Delhi  Latitude :  28.6216933 Longitude :  77.23913847172463
-Station Name :  Tagore Garden Delhi  Latitude :  28.6437265 Longitude :  77.11282
-Station Name :  Terminal 1-IGI Airport Delhi  Latitude :  28.5656684 Longitude :  77.122758
-Station Name :  Tikri Border Delhi  Latitude :  28.6880254 Longitude :  76.9640828
-Station Name :  Tikri Kalan Delhi  Latitude :  28.6868661 Longitude :  76.9772069
-Station Name :  Tilak Nagar Delhi  Latitude :  28.6365482 Longitude :  77.0964961
-Station Name :  Tis Hazari Delhi  Latitude :  28.6671626 Longitude :  77.2166306
-Station Name :  Trilokpuri Sanjay Lake Delhi  Latitude :  28.613453 Longitude :  77.3088549
-Station Name :  Tughlakabad Station Delhi  Latitude :  28.50254315 Longitude :  77.29938254243301
-Station Name :  Udyog Bhawan Delhi  Latitude :  28.6105302 Longitude :  77.2131076
-Station Name :  Udyog Nagar Delhi  Latitude :  28.681103 Longitude :  77.0808492
-Station Name :  Uttam Nagar East Delhi  Latitude :  28.6248465 Longitude :  77.0652861
-Station Name :  Uttam Nagar West Delhi  Latitude :  28.621757 Longitude :  77.0557122
-Station Name :  Vaishali Delhi  Latitude :  28.6453286 Longitude :  77.3243485
-Station Name :  Vasant Vihar Delhi  Latitude :  28.557808 Longitude :  77.1610899
-Station Name :  Vidhan Sabha Delhi  Latitude :  28.6863222 Longitude :  77.2217271
-Station Name :  Vinobapuri Delhi  Latitude :  28.565871 Longitude :  77.2492973
-Station Name :  Vishwa Vidyalaya Delhi  Latitude :  28.6950369 Longitude :  77.2147192
-Station Name :  Welcome Delhi  Latitude :  28.6723623 Longitude :  77.2770716
-Station Name :  Yamuna Bank Delhi  Latitude :  28.6232784 Longitude :  77.26792404925054
+Station Name :  Salt Lake Sector-V Latitude :  22.5809434 Longitude :  88.4290872
+Station Name :  Rabindra Sadan Kolkata  Latitude :  22.5414899 Longitude :  88.3473493
+Station Name :  City Center Kolkata  Latitude :  22.5764162 Longitude :  88.41414515
+Station Name :  Noapara Latitude :  22.6398237 Longitude :  88.3941087
+Station Name :  Girish Park Kolkata  Latitude :  22.5871445 Longitude :  88.3629415
+Station Name :  Shahid Khudiram Kolkata  Latitude :  22.4659847 Longitude :  88.3915408
+Station Name :  Belgachhia Kolkata  Latitude :  22.6067775 Longitude :  88.38520148885908
+Station Name :  Bengal Chemical Kolkata  Latitude :  22.5800666 Longitude :  88.4012962
+Station Name :  Karunamoyee Latitude :  22.58638 Longitude :  88.4215312
+Station Name :  Central Kolkata  Latitude :  22.5724857 Longitude :  88.3587427
+Station Name :  Shobhabazar Sutanuti Kolkata  Latitude :  22.595881 Longitude :  88.3651996
+Station Name :  Dakshineswar Kolkata  Latitude :  22.654827 Longitude :  88.35757762289637
+Station Name :  Gitanjali Kolkata  Latitude :  22.470678399999997 Longitude :  88.35538143911252
+Station Name :  Maidan Kolkata  Latitude :  22.5494672 Longitude :  88.3487883
+Station Name :  Shyambazar Kolkata  Latitude :  22.601335 Longitude :  88.3724974
+Station Name :  Baranagar Kolkata  Latitude :  22.6467949 Longitude :  88.3740078
+Station Name :  Netaji Bhavan Kolkata  Latitude :  22.5331821 Longitude :  88.3459269
+Station Name :  Chandni Chowk Kolkata  Latitude :  22.5670118 Longitude :  88.3541581
+Station Name :  Mahanayak Uttam Kumar Kolkata  Latitude :  22.4947692 Longitude :  88.3450879
+Station Name :  Park Street Kolkata  Latitude :  22.5551591 Longitude :  88.3501171
+Station Name :  Kalighat Kolkata  Latitude :  22.5168752 Longitude :  88.3458448
+Station Name :  Jatin Das Park Kolkata  Latitude :  22.5241535 Longitude :  88.3464729
+Station Name :  Mahatma Gandhi Road Kolkata  Latitude :  22.5809206 Longitude :  88.3613271
+Station Name :  Kavi Subhash Kolkata  Latitude :  22.472016 Longitude :  88.3979047
+Station Name :  Rabindra Sarobar Kolkata  Latitude :  22.5072216 Longitude :  88.3454936
+Station Name :  Masterda Surya Sen Kolkata  Latitude :  22.47358645 Longitude :  88.36067318196297
+Station Name :  Netaji Kolkata  Latitude :  22.4809928 Longitude :  88.3460002
+Station Name :  Phoolbagan Kolkata  Latitude :  22.5721451 Longitude :  88.3902926
+Station Name :  Salt Lake Stadium Kolkata  Latitude :  22.5730672 Longitude :  88.403089
+Station Name :  Kavi Nazrul Kolkata  Latitude :  22.4642505 Longitude :  88.3804604
+Station Name :  Esplanade Kolkata  Latitude :  22.5636143 Longitude :  88.3512099
+Station Name :  Dum Dum Kolkata  Latitude :  22.6211141 Longitude :  88.3928973
+Station Name :  Central Park Kolkata  Latitude :  22.489151399999997 Longitude :  88.40683779448923

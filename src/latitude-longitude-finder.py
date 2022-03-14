@@ -12,10 +12,10 @@ sys.stdout = open("output.txt", 'w')
 # CSV file fields
 metro_fields = ["Station Name","Latitude","Longitude"]
 metro_data = [] # list to store station data
-city = "Delhi" # city name
+city = "Kolkata" # city name
 filename = f"..\dataset\{city.lower()}-metro-data.csv" # filename
 
-# cnt = 0
+cnt = 0
 def display_save(name,lat,lon) :
     metro_data.append([name,lat,lon])
     print("Station Name : ",name, end=" ")
@@ -67,11 +67,11 @@ def Lat_Lon(name) :
                 display_save(station_name,response[0]["lat"],response[0]["lon"])
         else :
             metro_data.append([station_name,"Not Found","Not Found"])
-            # cnt+=1
-            # print("-"*100)
-            # print(station_name)
-            # print("Not Found!!!")
-            # print("-"*100)
+            cnt+=1
+            print("-"*100)
+            print(station_name)
+            print("Not Found!!!")
+            print("-"*100)
 
 # Main
 
