@@ -1,33 +1,283 @@
-Station Name :  Salt Lake Sector-V Latitude :  22.5809434 Longitude :  88.4290872
-Station Name :  Rabindra Sadan Kolkata  Latitude :  22.5414899 Longitude :  88.3473493
-Station Name :  City Center Kolkata  Latitude :  22.5764162 Longitude :  88.41414515
-Station Name :  Noapara Latitude :  22.6398237 Longitude :  88.3941087
-Station Name :  Girish Park Kolkata  Latitude :  22.5871445 Longitude :  88.3629415
-Station Name :  Shahid Khudiram Kolkata  Latitude :  22.4659847 Longitude :  88.3915408
-Station Name :  Belgachhia Kolkata  Latitude :  22.6067775 Longitude :  88.38520148885908
-Station Name :  Bengal Chemical Kolkata  Latitude :  22.5800666 Longitude :  88.4012962
-Station Name :  Karunamoyee Latitude :  22.58638 Longitude :  88.4215312
-Station Name :  Central Kolkata  Latitude :  22.5724857 Longitude :  88.3587427
-Station Name :  Shobhabazar Sutanuti Kolkata  Latitude :  22.595881 Longitude :  88.3651996
-Station Name :  Dakshineswar Kolkata  Latitude :  22.654827 Longitude :  88.35757762289637
-Station Name :  Gitanjali Kolkata  Latitude :  22.470678399999997 Longitude :  88.35538143911252
-Station Name :  Maidan Kolkata  Latitude :  22.5494672 Longitude :  88.3487883
-Station Name :  Shyambazar Kolkata  Latitude :  22.601335 Longitude :  88.3724974
-Station Name :  Baranagar Kolkata  Latitude :  22.6467949 Longitude :  88.3740078
-Station Name :  Netaji Bhavan Kolkata  Latitude :  22.5331821 Longitude :  88.3459269
-Station Name :  Chandni Chowk Kolkata  Latitude :  22.5670118 Longitude :  88.3541581
-Station Name :  Mahanayak Uttam Kumar Kolkata  Latitude :  22.4947692 Longitude :  88.3450879
-Station Name :  Park Street Kolkata  Latitude :  22.5551591 Longitude :  88.3501171
-Station Name :  Kalighat Kolkata  Latitude :  22.5168752 Longitude :  88.3458448
-Station Name :  Jatin Das Park Kolkata  Latitude :  22.5241535 Longitude :  88.3464729
-Station Name :  Mahatma Gandhi Road Kolkata  Latitude :  22.5809206 Longitude :  88.3613271
-Station Name :  Kavi Subhash Kolkata  Latitude :  22.472016 Longitude :  88.3979047
-Station Name :  Rabindra Sarobar Kolkata  Latitude :  22.5072216 Longitude :  88.3454936
-Station Name :  Masterda Surya Sen Kolkata  Latitude :  22.47358645 Longitude :  88.36067318196297
-Station Name :  Netaji Kolkata  Latitude :  22.4809928 Longitude :  88.3460002
-Station Name :  Phoolbagan Kolkata  Latitude :  22.5721451 Longitude :  88.3902926
-Station Name :  Salt Lake Stadium Kolkata  Latitude :  22.5730672 Longitude :  88.403089
-Station Name :  Kavi Nazrul Kolkata  Latitude :  22.4642505 Longitude :  88.3804604
-Station Name :  Esplanade Kolkata  Latitude :  22.5636143 Longitude :  88.3512099
-Station Name :  Dum Dum Kolkata  Latitude :  22.6211141 Longitude :  88.3928973
-Station Name :  Central Park Kolkata  Latitude :  22.489151399999997 Longitude :  88.40683779448923
+Station Name :  Azad Nagar Mumbai  Latitude :  19.12691015 Longitude :  72.8376484
+Station Name :  Devipada Mumbai  Latitude :  19.2251446 Longitude :  72.86453
+----------------------------------------------------------------------------------------------------
+Dhamankar Naka
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Santacruz Mumbai  Latitude :  19.0928172 Longitude :  72.85696046654412
+Station Name :  Kalyan Railway Station Mumbai  Latitude :  19.2358216 Longitude :  73.1308101
+Station Name :  MTNL, BKC Mumbai  Latitude :  19.0661715 Longitude :  72.8564666
+Station Name :  Mahindra & Mahindra Mumbai  Latitude :  19.20328105 Longitude :  72.86903261844235
+Station Name :  Bhiwandi Mumbai  Latitude :  19.3025562 Longitude :  73.0588072
+Station Name :  Diamond Garden Mumbai  Latitude :  19.0531011 Longitude :  72.90044137063389
+Station Name :  Kandivali Mumbai  Latitude :  19.204159 Longitude :  72.8516821
+Station Name :  Darukhana Mumbai  Latitude :  18.9770363 Longitude :  72.8490768
+Station Name :  Eastern Express Highway Mumbai  Latitude :  19.1684083 Longitude :  72.9664128
+Station Name :  Mahapalika Marg Mumbai  Latitude :  19.1971776 Longitude :  72.9694962
+Station Name :  Bhakti Park Mumbai  Latitude :  19.028972 Longitude :  72.8775722
+Station Name :  Sonapur Mumbai  Latitude :  19.1628583 Longitude :  72.934172
+----------------------------------------------------------------------------------------------------
+Pisavali Gaon
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Ganesh Nagar Mumbai  Latitude :  19.1515483 Longitude :  72.9300624
+Station Name :  Subhash Chandra Bose Stadium Latitude :  28.039505 Longitude :  76.0982859
+----------------------------------------------------------------------------------------------------
+Pisarve Depot
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Science Museum Mumbai  Latitude :  18.9899934 Longitude :  72.81748384444445
+Station Name :  Dahisar Mumbai  Latitude :  19.1588793 Longitude :  72.8352813
+Station Name :  Rambaug Mumbai  Latitude :  19.2171854 Longitude :  72.8512981
+Station Name :  Gandhi Nagar Mumbai  Latitude :  19.05804 Longitude :  72.8472584
+Station Name :  Cadbury Junction Mumbai  Latitude :  19.2045085 Longitude :  72.9688041
+----------------------------------------------------------------------------------------------------
+Rajnouli Village
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Kanjurmarg Mumbai  Latitude :  19.1296868 Longitude :  72.9283701
+----------------------------------------------------------------------------------------------------
+ILFS, BKC
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Kasarvadavali
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Amar Mahal Junction Mumbai  Latitude :  19.067405 Longitude :  72.8999983
+Station Name :  Sewri Mumbai  Latitude :  18.9987796 Longitude :  72.8544218
+Station Name :  Airport Colony Mumbai  Latitude :  19.0901312 Longitude :  72.86370318520977
+Station Name :  Dombivali MIDC Mumbai  Latitude :  19.19676975 Longitude :  73.07475222972616
+Station Name :  Khira Nagar Mumbai  Latitude :  19.0858599 Longitude :  72.8364813
+Station Name :  Vikhroli Mumbai  Latitude :  19.1114795 Longitude :  72.928021
+Station Name :  Charkop Mumbai  Latitude :  19.2141193 Longitude :  72.8258652
+Station Name :  Suman Nagar Mumbai  Latitude :  19.0538777 Longitude :  72.8849189
+Station Name :  MIDC Mumbai  Latitude :  19.1205119 Longitude :  72.8646365
+----------------------------------------------------------------------------------------------------
+CSMIA International
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Turbhe Mumbai  Latitude :  19.0761648 Longitude :  73.01766154369602
+Station Name :  SG Barve Marg Mumbai  Latitude :  19.0759254 Longitude :  72.8774422
+Station Name :  Clock Tower Mumbai  Latitude :  18.9345311 Longitude :  72.8357563
+----------------------------------------------------------------------------------------------------
+Acharya Atrey Chowk
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Deepak Hospital Mumbai  Latitude :  19.2928354 Longitude :  72.8616136
+Station Name :  Taloja Mumbai  Latitude :  19.0614859 Longitude :  73.1161392
+Station Name :  Kasheli Mumbai  Latitude :  19.23916135 Longitude :  73.01482792908541
+Station Name :  Swami Samarth Nagar Mumbai  Latitude :  19.1776516 Longitude :  72.9804826
+Station Name :  Income Tax Office Mumbai  Latitude :  19.0589931 Longitude :  72.8547228
+Station Name :  Powai Lake Mumbai  Latitude :  19.1277203 Longitude :  72.90627950131966
+Station Name :  Aarey Colony Mumbai  Latitude :  19.1503904 Longitude :  72.87426783008218
+Station Name :  Garodia Nagar Mumbai  Latitude :  19.0742044 Longitude :  72.909477
+Station Name :  Rushi Sankul Mumbai  Latitude :  19.2567647 Longitude :  72.8507957
+Station Name :  Amar Palace Latitude :  49.5338321 Longitude :  8.5825729
+Station Name :  Sagaon Mumbai  Latitude :  19.5077378 Longitude :  73.1453948
+Station Name :  Wadi Bunder Mumbai  Latitude :  18.9764347 Longitude :  72.8319417
+Station Name :  National College Mumbai  Latitude :  19.0648223 Longitude :  72.8373113
+Station Name :  Purna Mumbai  Latitude :  19.2563367 Longitude :  73.0277538
+Station Name :  Airport Road Mumbai  Latitude :  19.1101296 Longitude :  72.87418282271501
+Station Name :  Laxmi Nagar Mumbai  Latitude :  19.0908037 Longitude :  72.9167981
+Station Name :  Dadar Mumbai  Latitude :  19.0177342 Longitude :  72.8437523
+----------------------------------------------------------------------------------------------------
+Hedutane
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Bangur Nagar Mumbai  Latitude :  19.1688142 Longitude :  72.8336777
+Station Name :  Kashimira Mumbai  Latitude :  19.2755399 Longitude :  72.8841851
+Station Name :  Shyam Nagar Mumbai  Latitude :  19.137156 Longitude :  72.8614676
+Station Name :  Durgadi Fort Mumbai  Latitude :  19.2452962 Longitude :  73.1186797
+Station Name :  Adarsh Nagar Mumbai  Latitude :  19.0622146 Longitude :  72.8289581
+Station Name :  Jagruti Nagar Mumbai  Latitude :  19.0925442 Longitude :  72.9019518245769
+----------------------------------------------------------------------------------------------------
+Balkum Naka
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Vadavali
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Eksar LIC Colony Latitude :  19.2332203 Longitude :  72.8462072
+----------------------------------------------------------------------------------------------------
+Golavali
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Sahar Road Mumbai  Latitude :  19.102161799999998 Longitude :  72.8653104305769
+Station Name :  Mulund Naka Mumbai  Latitude :  19.183761949999997 Longitude :  72.95449593102404
+Station Name :  Mandala Mumbai  Latitude :  19.0532557 Longitude :  72.9377326
+Station Name :  Waklan Mumbai  Latitude :  19.1394189 Longitude :  73.0935129
+Station Name :  Shivaji Chowk Mumbai  Latitude :  19.1599476 Longitude :  73.2391224
+Station Name :  Coal Bunder Mumbai  Latitude :  18.9743759 Longitude :  72.8501465
+Station Name :  Chhatrapati Shivaji Maharaj Terminus Mumbai  Latitude :  18.9398453 Longitude :  72.83547038112503
+----------------------------------------------------------------------------------------------------
+Pandhurang Wadi
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Vikhroli EEH
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Asalpha Mumbai  Latitude :  19.096362050000003 Longitude :  72.89497159433817
+Station Name :  IIT Powai Mumbai  Latitude :  19.13261855 Longitude :  72.91497912536826
+Station Name :  Shrinath Nagar Latitude :  22.6718893 Longitude :  75.8301613
+Station Name :  Mumbai Central Mumbai  Latitude :  18.9695855 Longitude :  72.8193152
+Station Name :  Vidhan Bhavan Mumbai  Latitude :  18.9262345 Longitude :  72.82417343192868
+Station Name :  Kastur Park Mumbai  Latitude :  19.2248565 Longitude :  72.84587755505146
+Station Name :  Ganesh Nagar Mumbai  Latitude :  19.1515483 Longitude :  72.9300624
+Station Name :  Gopal Nagar Mumbai  Latitude :  19.0066978 Longitude :  72.8236294
+Station Name :  Vidyanagri Mumbai  Latitude :  19.06989145 Longitude :  72.84940954415235
+Station Name :  SEEPZ Village Mumbai  Latitude :  19.13048885 Longitude :  72.8749334
+Station Name :  Saraswat Nagar Mumbai  Latitude :  19.0746681 Longitude :  72.8375532
+Station Name :  Mankhurd Mumbai  Latitude :  19.0485178 Longitude :  72.9323356
+Station Name :  Pisarve Mumbai  Latitude :  18.3727789 Longitude :  74.1948349
+Station Name :  Girgaon Mumbai  Latitude :  18.9543165 Longitude :  72.8179082
+Station Name :  Nanavati Hospital Mumbai  Latitude :  19.0959684 Longitude :  72.8400115
+----------------------------------------------------------------------------------------------------
+Shitladevi Temple
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Kongaon Mumbai  Latitude :  19.2492562 Longitude :  73.1052393
+Station Name :  Hutatma Chowk Mumbai  Latitude :  18.93492735 Longitude :  72.83308087488743
+Station Name :  Cuffe Parade Mumbai  Latitude :  18.9157866 Longitude :  72.8189036
+Station Name :  ESIC Nagar Mumbai  Latitude :  19.116574 Longitude :  72.8298593
+Station Name :  Majiwada Mumbai  Latitude :  19.2130251 Longitude :  72.9784852
+Station Name :  Ghatkopar Mumbai  Latitude :  19.0859539 Longitude :  72.9082381
+Station Name :  Don Bosco Mumbai  Latitude :  19.2313773 Longitude :  72.8408387
+Station Name :  Shivaji Chowk Mumbai  Latitude :  19.1599476 Longitude :  73.2391224
+Station Name :  Sai Baba Nagar Mumbai  Latitude :  19.0627075 Longitude :  72.8910418
+Station Name :  Goregaon Mumbai  Latitude :  19.1648029 Longitude :  72.8500454
+----------------------------------------------------------------------------------------------------
+Bandongri
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Badhwar Park Mumbai  Latitude :  18.91904145 Longitude :  72.8264976296761
+Station Name :  Bhandup Mahapalika Mumbai  Latitude :  19.1387474 Longitude :  72.9307436
+Station Name :  Kalbadevi Mumbai  Latitude :  18.9492575 Longitude :  72.8279382
+Station Name :  Western Express Highway Mumbai  Latitude :  19.1029188 Longitude :  72.8544935
+Station Name :  Worli Mumbai  Latitude :  19.0116962 Longitude :  72.8180702
+Station Name :  Mahalaxmi Mumbai  Latitude :  18.9825203 Longitude :  72.8242196
+----------------------------------------------------------------------------------------------------
+Varsova Char Phata
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Sahajanand Chowk Latitude :  21.2101082 Longitude :  72.88971388620013
+----------------------------------------------------------------------------------------------------
+MBMC Sports Complex
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+JVLR Junction
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Shankarwadi
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Godrej Company Mumbai  Latitude :  19.1047986 Longitude :  72.921684
+Station Name :  Saki Naka Mumbai  Latitude :  19.10354565 Longitude :  72.88794243747539
+Station Name :  Saki Vihar Road Mumbai  Latitude :  19.1286075 Longitude :  72.895732
+Station Name :  Temghar Mumbai  Latitude :  19.2787193 Longitude :  73.0779648
+Station Name :  BPT Hospital Mumbai  Latitude :  19.0128573 Longitude :  72.86147028483161
+Station Name :  Kalher Mumbai  Latitude :  19.2470586 Longitude :  73.0162096
+Station Name :  Kolegaon Mumbai  Latitude :  19.1611281 Longitude :  73.0890407
+Station Name :  Surya Nagar Mumbai  Latitude :  19.1190441 Longitude :  72.9234984
+Station Name :  Malad Mumbai  Latitude :  19.1867193 Longitude :  72.8485884
+Station Name :  Carnac Bunder Mumbai  Latitude :  18.9454612 Longitude :  72.8311249
+Station Name :  Indira Nagar Mumbai  Latitude :  19.036052 Longitude :  72.8635501
+Station Name :  Siddhivinayak Temple Mumbai  Latitude :  19.1726703 Longitude :  72.9562489
+Station Name :  Chakala Mumbai  Latitude :  19.1152873 Longitude :  72.8618085
+Station Name :  Prem Nagar Mumbai  Latitude :  19.10922945 Longitude :  72.83963053334259
+Station Name :  Andheri Mumbai  Latitude :  19.1196976 Longitude :  72.8464205
+Station Name :  Mulund Fire Station Mumbai  Latitude :  19.17475 Longitude :  72.9418994
+Station Name :  Gaimukh Mumbai  Latitude :  19.2857571 Longitude :  72.9359618
+Station Name :  Anjur Phata Mumbai  Latitude :  19.3668806 Longitude :  72.9182969
+Station Name :  Jogeshwari Mumbai  Latitude :  19.1348994 Longitude :  72.8488199
+Station Name :  Dongripada Mumbai  Latitude :  19.2506904 Longitude :  72.9733318
+Station Name :  Churchgate Mumbai  Latitude :  18.9354797 Longitude :  72.8271741
+Station Name :  Naval Housing Mumbai  Latitude :  19.1167083 Longitude :  72.90636714615492
+----------------------------------------------------------------------------------------------------
+Tikuji-ni-wadi
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Chembur Mumbai  Latitude :  19.0626319 Longitude :  72.9011399
+----------------------------------------------------------------------------------------------------
+BSNL, Govandi
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Mahakali Caves Mumbai  Latitude :  19.1306093 Longitude :  72.87381645183467
+Station Name :  Kasturi Park Mumbai  Latitude :  19.1728629 Longitude :  72.8362994
+Station Name :  Nilaje Gaon Mumbai  Latitude :  19.1539358 Longitude :  73.0824948
+Station Name :  Wadala Truck Terminal Mumbai  Latitude :  19.03470845 Longitude :  72.876617325
+Station Name :  Gowniwada Mumbai  Latitude :  19.271637 Longitude :  72.9554451
+Station Name :  Bhandup Mumbai  Latitude :  19.1438684 Longitude :  72.9384327
+Station Name :  Vijay Garden Mumbai  Latitude :  19.2622018 Longitude :  72.97381164762723
+----------------------------------------------------------------------------------------------------
+Teen Haath Naka
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  SEEPZ Mumbai  Latitude :  19.1253556 Longitude :  72.8751701719707
+Station Name :  Shangrila Mumbai  Latitude :  19.0604361 Longitude :  72.82697369924672
+----------------------------------------------------------------------------------------------------
+Govegaon MIDC
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Borivali Omkareshwar Latitude :  19.2316351 Longitude :  72.8628477
+Station Name :  D.N. Nagar Mumbai  Latitude :  19.12829205 Longitude :  72.83019335523952
+Station Name :  Ekta Nagar Mumbai  Latitude :  19.0528973 Longitude :  72.9373071
+Station Name :  Grant Road Mumbai  Latitude :  18.9633549 Longitude :  72.8158261
+Station Name :  Indralok Mumbai  Latitude :  19.1391104 Longitude :  72.82453859126397
+Station Name :  Bandra Mumbai  Latitude :  19.0549792 Longitude :  72.8402203
+Station Name :  Manpada Mumbai  Latitude :  19.2314156 Longitude :  72.9738156
+Station Name :  Shreyas Cinema Mumbai  Latitude :  19.0940067 Longitude :  72.9126336
+Station Name :  Kapurbawdi Mumbai  Latitude :  19.2112292 Longitude :  72.9801892
+Station Name :  I.C. Colony Mumbai  Latitude :  19.2446251 Longitude :  72.8479254
+Station Name :  Oshiwara Mumbai  Latitude :  19.1502437 Longitude :  72.8342294
+Station Name :  Mahanand Mumbai  Latitude :  26.8190196 Longitude :  87.2839819
+----------------------------------------------------------------------------------------------------
+Magathane Bus Depot
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Marol Naka Mumbai  Latitude :  19.1081559 Longitude :  72.87947778228579
+Station Name :  Manpada Mumbai  Latitude :  19.2314156 Longitude :  72.9738156
+Station Name :  RTO Thane Mumbai  Latitude :  19.1891278 Longitude :  72.9643227
+----------------------------------------------------------------------------------------------------
+CSMIA Domestic
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Versova Mumbai  Latitude :  19.13025205 Longitude :  72.8213774957082
+Station Name :  Bale Mumbai  Latitude :  20.530308 Longitude :  -100.402738
+Station Name :  Hay Bunder Mumbai  Latitude :  18.9666198 Longitude :  72.84247799992306
+Station Name :  Dharavi Mumbai  Latitude :  19.044463 Longitude :  72.8586177
+Station Name :  Siddharth Colony Mumbai  Latitude :  19.0679724 Longitude :  72.8472782
+Station Name :  Anand Nagar Mumbai  Latitude :  19.0993828 Longitude :  72.9115929
+Station Name :  Shahid Bhagat Singh Garden Latitude :  18.93558385 Longitude :  72.8371413314241
+Station Name :  Andheri Mumbai  Latitude :  19.1196976 Longitude :  72.8464205
+----------------------------------------------------------------------------------------------------
+Gaimukh Reti Bandar
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Kurar Village Mumbai  Latitude :  19.1878187 Longitude :  72.8641984
+Station Name :  Anik Nagar Bus Depot Mumbai  Latitude :  19.04510565 Longitude :  72.87685057991499
+----------------------------------------------------------------------------------------------------
+Kalyan APMC
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Sonarpada Mumbai  Latitude :  19.1985496 Longitude :  73.0977884
+----------------------------------------------------------------------------------------------------
+Aarey Road Junction
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Kurla Mumbai  Latitude :  19.0652797 Longitude :  72.8793805
+----------------------------------------------------------------------------------------------------
+Zankar Company
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Vitt Bhatti Junction
+Not Found!!!
+----------------------------------------------------------------------------------------------------
+Station Name :  Pant Nagar Mumbai  Latitude :  19.07931595 Longitude :  72.90994709974575
+Station Name :  Shastri Nagar Mumbai  Latitude :  19.1380387 Longitude :  72.8280164
+31

@@ -12,7 +12,7 @@ sys.stdout = open("output.txt", 'w')
 # CSV file fields
 metro_fields = ["Station Name","Latitude","Longitude"]
 metro_data = [] # list to store station data
-city = "Kolkata" # city name
+city = "Mumbai" # city name
 filename = f"..\dataset\{city.lower()}-metro-data.csv" # filename
 
 cnt = 0
@@ -80,7 +80,7 @@ for i in range(n):
     s = input().lstrip('"').rstrip('"').rstrip('\n').rstrip(' ')
     # print(s)
     Lat_Lon(s)
-# print(cnt)
+print(cnt)
 
 # writing to csv file
 with open(filename, 'w', newline='') as csvfile:

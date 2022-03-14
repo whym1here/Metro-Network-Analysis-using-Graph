@@ -1,34 +1,190 @@
-33
-Salt Lake Sector-V 
-Rabindra Sadan 
-City Center 
-Noapara 
-Girish Park 
-Shahid Khudiram 
-Belgachhia 
-Bengal Chemical 
-Karunamoyee 
-Central
-Shobhabazar Sutanuti 
-Dakshineswar 
-Gitanjali 
-Maidan 
-Shyambazar 
-Baranagar 
-Netaji Bhavan 
-Chandni Chowk
-Mahanayak Uttam Kumar 
-Park Street
-Kalighat 
-Jatin Das Park 
-Mahatma Gandhi Road
-Kavi Subhash 
-Rabindra Sarobar 
-Masterda Surya Sen 
-Netaji 
-Phoolbagan 
-Salt Lake Stadium 
-Kavi Nazrul 
-Esplanade 
-Dum Dum 
-Central Park
+189
+Azad Nagar 
+Devipada 
+Dhamankar Naka 
+Santacruz 
+Kalyan Railway Station 
+MTNL, BKC
+Mahindra & Mahindra 
+Bhiwandi 
+Diamond Garden 
+Kandivali 
+Darukhana 
+Eastern Express Highway 
+Mahapalika Marg 
+Bhakti Park
+Sonapur 
+Pisavali Gaon 
+Ganesh Nagar  
+Subhash Chandra Bose Stadium 
+Pisarve Depot 
+Science Museum 
+Dahisar  
+Rambaug  
+Gandhi Nagar  
+Cadbury Junction 
+Rajnouli Village 
+Kanjurmarg  
+ILFS, BKC
+Kasarvadavali 
+Amar Mahal Junction 
+Sewri 
+Airport Colony 
+Dombivali MIDC 
+Khira Nagar 
+Vikhroli 
+Charkop 
+Suman Nagar 
+MIDC 
+CSMIA International 
+Turbhe 
+SG Barve Marg 
+Clock Tower 
+Acharya Atrey Chowk 
+Deepak Hospital 
+Taloja 
+Kasheli 
+Swami Samarth Nagar  
+Income Tax Office 
+Powai Lake 
+Aarey Colony 
+Garodia Nagar 
+Rushi Sankul 
+Amar Palace  
+Sagaon 
+Wadi Bunder 
+National College  
+Purna 
+Airport Road 
+Laxmi Nagar  
+Dadar 
+Hedutane 
+Bangur Nagar  
+Kashimira 
+Shyam Nagar  
+Durgadi Fort 
+Adarsh Nagar  
+Jagruti Nagar 
+Balkum Naka 
+Vadavali 
+Eksar LIC Colony 
+Golavali 
+Sahar Road 
+Mulund Naka 
+Mandala 
+Waklan 
+Shivaji Chowk  
+Coal Bunder 
+Chhatrapati Shivaji Maharaj Terminus 
+Pandhurang Wadi 
+Vikhroli EEH 
+Asalpha 
+IIT Powai 
+Shrinath Nagar  
+Mumbai Central 
+Vidhan Bhavan 
+Kastur Park  
+Ganesh Nagar 
+Gopal Nagar 
+Vidyanagri 
+SEEPZ Village 
+Saraswat Nagar 
+Mankhurd 
+Pisarve 
+Girgaon 
+Nanavati Hospital 
+Shitladevi Temple 
+Kongaon 
+Hutatma Chowk 
+Cuffe Parade 
+ESIC Nagar 
+Majiwada 
+Ghatkopar 
+Don Bosco  
+Shivaji Chowk 
+Sai Baba Nagar 
+Goregaon 
+Bandongri 
+Badhwar Park 
+Bhandup Mahapalika 
+Kalbadevi 
+Western Express Highway 
+Worli 
+Mahalaxmi 
+Varsova Char Phata 
+Sahajanand Chowk 
+MBMC Sports Complex 
+JVLR Junction 
+Shankarwadi 
+Godrej Company 
+Saki Naka 
+Saki Vihar Road 
+Temghar 
+BPT Hospital 
+Kalher 
+Kolegaon 
+Surya Nagar 
+Malad 
+Carnac Bunder 
+Indira Nagar  
+Siddhivinayak Temple 
+Chakala  
+Prem Nagar 
+Andheri 
+Mulund Fire Station 
+Gaimukh 
+Anjur Phata 
+Jogeshwari 
+Dongripada 
+Churchgate 
+Naval Housing 
+Tikuji-ni-wadi 
+Chembur 
+BSNL, Govandi
+Mahakali Caves 
+Kasturi Park  
+Nilaje Gaon 
+Wadala Truck Terminal 
+Gowniwada 
+Bhandup 
+Vijay Garden 
+Teen Haath Naka  
+SEEPZ 
+Shangrila 
+Govegaon MIDC 
+Borivali Omkareshwar  
+D.N. Nagar 
+Ekta Nagar 
+Grant Road 
+Indralok 
+Bandra 
+Manpada 
+Shreyas Cinema 
+Kapurbawdi 
+I.C. Colony 
+Oshiwara 
+Mahanand  
+Magathane Bus Depot  
+Marol Naka 
+Manpada 
+RTO Thane 
+CSMIA Domestic 
+Versova 
+Bale 
+Hay Bunder 
+Dharavi 
+Siddharth Colony 
+Anand Nagar  
+Shahid Bhagat Singh Garden 
+Andheri 
+Gaimukh Reti Bandar 
+Kurar Village 
+Anik Nagar Bus Depot 
+Kalyan APMC 
+Sonarpada 
+Aarey Road Junction 
+Kurla  
+Zankar Company 
+Vitt Bhatti Junction  
+Pant Nagar 
+Shastri Nagar
