@@ -1,0 +1,882 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_ee022484215748b88dbc3c64a16476ff {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_ee022484215748b88dbc3c64a16476ff" ></div>
+        
+</body>
+<script>    
+    
+            var map_ee022484215748b88dbc3c64a16476ff = L.map(
+                "map_ee022484215748b88dbc3c64a16476ff",
+                {
+                    center: [22.55290080757576, 88.37282393545453],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 10,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_61005f9d924544f5834f286c2a618f5b = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_be3d1abc52c044f782e6bc5025b4a174 = L.polyline(
+                [[22.5670118, 88.3541581], [22.5636143, 88.3512099]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_aa1ac862134e4c3cb9dc1c364e06bc35 = L.polyline(
+                [[22.4706784, 88.35538144], [22.47358645, 88.36067318]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_bec3f4af82614ba893e8b96d922142fe = L.polyline(
+                [[22.5494672, 88.3487883], [22.5551591, 88.3501171]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_e5f79620b72d4710b074e75095da9953 = L.polyline(
+                [[22.5871445, 88.3629415], [22.5809206, 88.3613271]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_9868c0d500bf4e62bd07ac26a45e17db = L.polyline(
+                [[22.5724857, 88.3587427], [22.5670118, 88.3541581]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_1c59c32a0dc54295a7ca63faa1d34c8d = L.polyline(
+                [[22.5800666, 88.4012962], [22.5730672, 88.403089]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_eff6e0cf6141415892d8e298121f9fb1 = L.polyline(
+                [[22.5168752, 88.3458448], [22.5241535, 88.3464729]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_82484524da9a468080173eb905616a98 = L.polyline(
+                [[22.5414899, 88.3473493], [22.5494672, 88.3487883]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_95897d52b7c449f59c45f743b19cfcab = L.polyline(
+                [[22.5414899, 88.3473493], [22.5331821, 88.3459269]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_1786acdee3bb437680b76674a1d596fa = L.polyline(
+                [[22.4659847, 88.3915408], [22.472016, 88.3979047]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_ed2a83296bb247098c2e71410200d83c = L.polyline(
+                [[22.5551591, 88.3501171], [22.5636143, 88.3512099]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_3a31c5bb7ce04cfaa2b787925893aa51 = L.polyline(
+                [[22.595881, 88.3651996], [22.601335, 88.3724974]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_da72d88f3a564471b69e10ab623c56ad = L.polyline(
+                [[22.5724857, 88.3587427], [22.5809206, 88.3613271]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_02d0e279c5314a47a52842b7f7896763 = L.polyline(
+                [[22.5809434, 88.4290872], [22.58638, 88.4215312]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_ceae4cba368a4f21b0d4c985fa5ffe16 = L.polyline(
+                [[22.5871445, 88.3629415], [22.595881, 88.3651996]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_42571f48690f42b5a07d46b051127b9d = L.polyline(
+                [[22.5331821, 88.3459269], [22.5241535, 88.3464729]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_791b798236054624917aba52a5c8e849 = L.polyline(
+                [[22.5168752, 88.3458448], [22.5072216, 88.3454936]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_a81c0e96210840429c8fab2f9c3ec685 = L.polyline(
+                [[22.4659847, 88.3915408], [22.4642505, 88.3804604]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_fb707e279f9f43b8b2bbec4297b86cf3 = L.polyline(
+                [[22.5764162, 88.41414515], [22.5730672, 88.403089]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_f3be1fb539074b6f87a1f9ce0b540d98 = L.polyline(
+                [[22.5721451, 88.3902926], [22.5730672, 88.403089]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_ffac9fe27a964626841d2db75d5bd87f = L.polyline(
+                [[22.5764162, 88.41414515], [22.58638, 88.4215312]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_4913468f292640a999ba8a1acd195bf5 = L.polyline(
+                [[22.4947692, 88.3450879], [22.5072216, 88.3454936]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_28cc572884a94a76af09c02ac74b0b17 = L.polyline(
+                [[22.6067775, 88.38520149], [22.601335, 88.3724974]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_9d4ac1ec8cec446991e09f472898fbb7 = L.polyline(
+                [[22.4706784, 88.35538144], [22.4809928, 88.3460002]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_5ca0a00a8bcf454f832b20d57057218f = L.polyline(
+                [[22.4947692, 88.3450879], [22.4809928, 88.3460002]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_6d9fe09b94c9422da06221b2c8ee2bca = L.polyline(
+                [[22.6067775, 88.38520149], [22.6211141, 88.3928973]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_3cc69a204b6c4626a58fcf1b8072949d = L.polyline(
+                [[22.654827, 88.35757762], [22.6467949, 88.3740078]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_388680624d3d4c219381b43d1e8e39d9 = L.polyline(
+                [[22.6398237, 88.3941087], [22.6211141, 88.3928973]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_6f1bfb6f88ad4b64933f6083fc28c49d = L.polyline(
+                [[22.472016, 88.3979047], [22.4891514, 88.40683779]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_ce10f143984e4f17bd5fde1f980ed9f4 = L.polyline(
+                [[22.6398237, 88.3941087], [22.6467949, 88.3740078]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_bb22b0b6d44d4b38a26ba2fc082563e3 = L.polyline(
+                [[22.47358645, 88.36067318], [22.4642505, 88.3804604]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var poly_line_02f7c75d43064994ac7708da7d9c1bd2 = L.polyline(
+                [[22.5809206, 88.3613271], [22.5721451, 88.3902926]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+            var circle_marker_9c92d46901a74918a3c2c651ce31682d = L.circleMarker(
+                [22.5809434, 88.4290872],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_6aa44c10c25346a6970ab16caf4cb4db = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e094c9db64c54398b9e973347266df8a = $(`<div id="html_e094c9db64c54398b9e973347266df8a" style="width: 100.0%; height: 100.0%;"><stong>Salt Lake Sector-V Metro Sation</stong></div>`)[0];
+            popup_6aa44c10c25346a6970ab16caf4cb4db.setContent(html_e094c9db64c54398b9e973347266df8a);
+        
+
+        circle_marker_9c92d46901a74918a3c2c651ce31682d.bindPopup(popup_6aa44c10c25346a6970ab16caf4cb4db)
+        ;
+
+        
+    
+    
+            var circle_marker_549b4088ecbb462983f3803a453dfa90 = L.circleMarker(
+                [22.5414899, 88.3473493],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_2f6bd53bad7e4a36a7912ef950306df7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6fbd04ffc2084392a99e1063a595f778 = $(`<div id="html_6fbd04ffc2084392a99e1063a595f778" style="width: 100.0%; height: 100.0%;"><stong>Rabindra Sadan Kolkata  Metro Sation</stong></div>`)[0];
+            popup_2f6bd53bad7e4a36a7912ef950306df7.setContent(html_6fbd04ffc2084392a99e1063a595f778);
+        
+
+        circle_marker_549b4088ecbb462983f3803a453dfa90.bindPopup(popup_2f6bd53bad7e4a36a7912ef950306df7)
+        ;
+
+        
+    
+    
+            var circle_marker_a9731053e1a24725a7e2ff131aa0518e = L.circleMarker(
+                [22.5764162, 88.41414515],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_f3d1fed8c3534948bfb09f7e5c0cf2e7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2ef392db80a943deba5f12b42696b037 = $(`<div id="html_2ef392db80a943deba5f12b42696b037" style="width: 100.0%; height: 100.0%;"><stong>City Center Kolkata  Metro Sation</stong></div>`)[0];
+            popup_f3d1fed8c3534948bfb09f7e5c0cf2e7.setContent(html_2ef392db80a943deba5f12b42696b037);
+        
+
+        circle_marker_a9731053e1a24725a7e2ff131aa0518e.bindPopup(popup_f3d1fed8c3534948bfb09f7e5c0cf2e7)
+        ;
+
+        
+    
+    
+            var circle_marker_ffbe24d267de412da3858823e11f0342 = L.circleMarker(
+                [22.6398237, 88.3941087],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_263e94d5550644abb6cf7a0b6a0afd71 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6e532fa99e054aa9be13be13e135f822 = $(`<div id="html_6e532fa99e054aa9be13be13e135f822" style="width: 100.0%; height: 100.0%;"><stong>Noapara Metro Sation</stong></div>`)[0];
+            popup_263e94d5550644abb6cf7a0b6a0afd71.setContent(html_6e532fa99e054aa9be13be13e135f822);
+        
+
+        circle_marker_ffbe24d267de412da3858823e11f0342.bindPopup(popup_263e94d5550644abb6cf7a0b6a0afd71)
+        ;
+
+        
+    
+    
+            var circle_marker_e43288951e2044f486b7dded7196cc1a = L.circleMarker(
+                [22.5871445, 88.3629415],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_7e603d8508994acc881d172ae5cab11e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e9ea8478dfd84a81a893ae994016ce95 = $(`<div id="html_e9ea8478dfd84a81a893ae994016ce95" style="width: 100.0%; height: 100.0%;"><stong>Girish Park Kolkata  Metro Sation</stong></div>`)[0];
+            popup_7e603d8508994acc881d172ae5cab11e.setContent(html_e9ea8478dfd84a81a893ae994016ce95);
+        
+
+        circle_marker_e43288951e2044f486b7dded7196cc1a.bindPopup(popup_7e603d8508994acc881d172ae5cab11e)
+        ;
+
+        
+    
+    
+            var circle_marker_fbcada806d7f455c9869048670701297 = L.circleMarker(
+                [22.4659847, 88.3915408],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_9eb3c494550f4297a6ae19b390864151 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c172edc7122141ae8d6e52e74b96bdb8 = $(`<div id="html_c172edc7122141ae8d6e52e74b96bdb8" style="width: 100.0%; height: 100.0%;"><stong>Shahid Khudiram Kolkata  Metro Sation</stong></div>`)[0];
+            popup_9eb3c494550f4297a6ae19b390864151.setContent(html_c172edc7122141ae8d6e52e74b96bdb8);
+        
+
+        circle_marker_fbcada806d7f455c9869048670701297.bindPopup(popup_9eb3c494550f4297a6ae19b390864151)
+        ;
+
+        
+    
+    
+            var circle_marker_1c2db63a112e4a789330b63ef55826f5 = L.circleMarker(
+                [22.6067775, 88.38520149],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_f7f6e12cb87f4631bd484ea9520625d7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8bb18bfcebed4c99a77f7e91a32eb62a = $(`<div id="html_8bb18bfcebed4c99a77f7e91a32eb62a" style="width: 100.0%; height: 100.0%;"><stong>Belgachhia Kolkata  Metro Sation</stong></div>`)[0];
+            popup_f7f6e12cb87f4631bd484ea9520625d7.setContent(html_8bb18bfcebed4c99a77f7e91a32eb62a);
+        
+
+        circle_marker_1c2db63a112e4a789330b63ef55826f5.bindPopup(popup_f7f6e12cb87f4631bd484ea9520625d7)
+        ;
+
+        
+    
+    
+            var circle_marker_2a017a525d414638a747ced39dd243b4 = L.circleMarker(
+                [22.5800666, 88.4012962],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_522175a8d6bb4b12a36b71f17f162b17 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6940135802854c40b0d0726aa5f85681 = $(`<div id="html_6940135802854c40b0d0726aa5f85681" style="width: 100.0%; height: 100.0%;"><stong>Bengal Chemical Kolkata  Metro Sation</stong></div>`)[0];
+            popup_522175a8d6bb4b12a36b71f17f162b17.setContent(html_6940135802854c40b0d0726aa5f85681);
+        
+
+        circle_marker_2a017a525d414638a747ced39dd243b4.bindPopup(popup_522175a8d6bb4b12a36b71f17f162b17)
+        ;
+
+        
+    
+    
+            var circle_marker_f2854855bbec48fcb0ffec68f7a4d7f9 = L.circleMarker(
+                [22.58638, 88.4215312],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_7832e545f45b43269c4ce6c3ee9a29dc = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d4caddbfdad14835abf8412284743d30 = $(`<div id="html_d4caddbfdad14835abf8412284743d30" style="width: 100.0%; height: 100.0%;"><stong>Karunamoyee Metro Sation</stong></div>`)[0];
+            popup_7832e545f45b43269c4ce6c3ee9a29dc.setContent(html_d4caddbfdad14835abf8412284743d30);
+        
+
+        circle_marker_f2854855bbec48fcb0ffec68f7a4d7f9.bindPopup(popup_7832e545f45b43269c4ce6c3ee9a29dc)
+        ;
+
+        
+    
+    
+            var circle_marker_22079e6cfc2246b2bcccee70b87863bb = L.circleMarker(
+                [22.5724857, 88.3587427],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_cd31a9efc22541ad9c688d0251ef98e8 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1b142ee0e50149419b31c846ad0aab67 = $(`<div id="html_1b142ee0e50149419b31c846ad0aab67" style="width: 100.0%; height: 100.0%;"><stong>Central Kolkata  Metro Sation</stong></div>`)[0];
+            popup_cd31a9efc22541ad9c688d0251ef98e8.setContent(html_1b142ee0e50149419b31c846ad0aab67);
+        
+
+        circle_marker_22079e6cfc2246b2bcccee70b87863bb.bindPopup(popup_cd31a9efc22541ad9c688d0251ef98e8)
+        ;
+
+        
+    
+    
+            var circle_marker_a530e47f7daa488f9850e2f8a2df8aea = L.circleMarker(
+                [22.595881, 88.3651996],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_82b74673a9604c43858c7326b3c78774 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c8d1ba31a9f4446f94afc39b4fe7a6a0 = $(`<div id="html_c8d1ba31a9f4446f94afc39b4fe7a6a0" style="width: 100.0%; height: 100.0%;"><stong>Shobhabazar Sutanuti Kolkata  Metro Sation</stong></div>`)[0];
+            popup_82b74673a9604c43858c7326b3c78774.setContent(html_c8d1ba31a9f4446f94afc39b4fe7a6a0);
+        
+
+        circle_marker_a530e47f7daa488f9850e2f8a2df8aea.bindPopup(popup_82b74673a9604c43858c7326b3c78774)
+        ;
+
+        
+    
+    
+            var circle_marker_eb5ee4cf86064c13850a6170704d3887 = L.circleMarker(
+                [22.654827, 88.35757762],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_9c02a42a233947bda27834feb8646dc4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5b5a33fb6e1e4319b44449f8a12babcc = $(`<div id="html_5b5a33fb6e1e4319b44449f8a12babcc" style="width: 100.0%; height: 100.0%;"><stong>Dakshineswar Kolkata  Metro Sation</stong></div>`)[0];
+            popup_9c02a42a233947bda27834feb8646dc4.setContent(html_5b5a33fb6e1e4319b44449f8a12babcc);
+        
+
+        circle_marker_eb5ee4cf86064c13850a6170704d3887.bindPopup(popup_9c02a42a233947bda27834feb8646dc4)
+        ;
+
+        
+    
+    
+            var circle_marker_d180e0a52c5647e6aa80be76d8706459 = L.circleMarker(
+                [22.4706784, 88.35538144],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_4a7526195caf4e42bfca4403b8b3da13 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ac080bcd77734939b2a59389b0c3d8d4 = $(`<div id="html_ac080bcd77734939b2a59389b0c3d8d4" style="width: 100.0%; height: 100.0%;"><stong>Gitanjali Kolkata  Metro Sation</stong></div>`)[0];
+            popup_4a7526195caf4e42bfca4403b8b3da13.setContent(html_ac080bcd77734939b2a59389b0c3d8d4);
+        
+
+        circle_marker_d180e0a52c5647e6aa80be76d8706459.bindPopup(popup_4a7526195caf4e42bfca4403b8b3da13)
+        ;
+
+        
+    
+    
+            var circle_marker_0e7c5ef988654a3abcf8ba34fa5be4a4 = L.circleMarker(
+                [22.5494672, 88.3487883],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_353eaed1aab049c89c4d01e7122f0678 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3ff38b7b665943baacb76dcc56c9228e = $(`<div id="html_3ff38b7b665943baacb76dcc56c9228e" style="width: 100.0%; height: 100.0%;"><stong>Maidan Kolkata  Metro Sation</stong></div>`)[0];
+            popup_353eaed1aab049c89c4d01e7122f0678.setContent(html_3ff38b7b665943baacb76dcc56c9228e);
+        
+
+        circle_marker_0e7c5ef988654a3abcf8ba34fa5be4a4.bindPopup(popup_353eaed1aab049c89c4d01e7122f0678)
+        ;
+
+        
+    
+    
+            var circle_marker_7cc41fa70b3242ffac00d6b76269acda = L.circleMarker(
+                [22.601335, 88.3724974],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_e28d465a10b4429fba78bb61a532874c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7a742008e1fd4dbd983f84f22bc56f94 = $(`<div id="html_7a742008e1fd4dbd983f84f22bc56f94" style="width: 100.0%; height: 100.0%;"><stong>Shyambazar Kolkata  Metro Sation</stong></div>`)[0];
+            popup_e28d465a10b4429fba78bb61a532874c.setContent(html_7a742008e1fd4dbd983f84f22bc56f94);
+        
+
+        circle_marker_7cc41fa70b3242ffac00d6b76269acda.bindPopup(popup_e28d465a10b4429fba78bb61a532874c)
+        ;
+
+        
+    
+    
+            var circle_marker_c6523191221c4a54b905655cc9b42f59 = L.circleMarker(
+                [22.6467949, 88.3740078],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_2cc3237db98a463eb7e7c74731af787b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2af8316dd4ee43c0aae7ed78340bc74b = $(`<div id="html_2af8316dd4ee43c0aae7ed78340bc74b" style="width: 100.0%; height: 100.0%;"><stong>Baranagar Kolkata  Metro Sation</stong></div>`)[0];
+            popup_2cc3237db98a463eb7e7c74731af787b.setContent(html_2af8316dd4ee43c0aae7ed78340bc74b);
+        
+
+        circle_marker_c6523191221c4a54b905655cc9b42f59.bindPopup(popup_2cc3237db98a463eb7e7c74731af787b)
+        ;
+
+        
+    
+    
+            var circle_marker_b3611b321b8f42f497b8d256bfe88b36 = L.circleMarker(
+                [22.5331821, 88.3459269],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_48891b636ec64d20803f6bfca6244f31 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2cf9ff7cd5cc4ceabffd6bfef803fb03 = $(`<div id="html_2cf9ff7cd5cc4ceabffd6bfef803fb03" style="width: 100.0%; height: 100.0%;"><stong>Netaji Bhavan Kolkata  Metro Sation</stong></div>`)[0];
+            popup_48891b636ec64d20803f6bfca6244f31.setContent(html_2cf9ff7cd5cc4ceabffd6bfef803fb03);
+        
+
+        circle_marker_b3611b321b8f42f497b8d256bfe88b36.bindPopup(popup_48891b636ec64d20803f6bfca6244f31)
+        ;
+
+        
+    
+    
+            var circle_marker_735227e3addd45c1ac9e1150db0c805e = L.circleMarker(
+                [22.5670118, 88.3541581],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_044e2eb3536047e3bb39af98746c4430 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d0efd53ce7464fe3a62ee3560543490e = $(`<div id="html_d0efd53ce7464fe3a62ee3560543490e" style="width: 100.0%; height: 100.0%;"><stong>Chandni Chowk Kolkata  Metro Sation</stong></div>`)[0];
+            popup_044e2eb3536047e3bb39af98746c4430.setContent(html_d0efd53ce7464fe3a62ee3560543490e);
+        
+
+        circle_marker_735227e3addd45c1ac9e1150db0c805e.bindPopup(popup_044e2eb3536047e3bb39af98746c4430)
+        ;
+
+        
+    
+    
+            var circle_marker_d27daf89c6774c7faced6d585a823ffb = L.circleMarker(
+                [22.4947692, 88.3450879],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_0dc0d17b73ea4556aa74ffa21127864b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d8f467fbddd44d3db0018e4ea7f218dc = $(`<div id="html_d8f467fbddd44d3db0018e4ea7f218dc" style="width: 100.0%; height: 100.0%;"><stong>Mahanayak Uttam Kumar Kolkata  Metro Sation</stong></div>`)[0];
+            popup_0dc0d17b73ea4556aa74ffa21127864b.setContent(html_d8f467fbddd44d3db0018e4ea7f218dc);
+        
+
+        circle_marker_d27daf89c6774c7faced6d585a823ffb.bindPopup(popup_0dc0d17b73ea4556aa74ffa21127864b)
+        ;
+
+        
+    
+    
+            var circle_marker_ee091a6333dd46ea9d6ffb18bc52aaed = L.circleMarker(
+                [22.5551591, 88.3501171],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_5b95709aa47245918a7f1a28ecec9ef2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9fc80c211dc444248f38f8eca223945f = $(`<div id="html_9fc80c211dc444248f38f8eca223945f" style="width: 100.0%; height: 100.0%;"><stong>Park Street Kolkata  Metro Sation</stong></div>`)[0];
+            popup_5b95709aa47245918a7f1a28ecec9ef2.setContent(html_9fc80c211dc444248f38f8eca223945f);
+        
+
+        circle_marker_ee091a6333dd46ea9d6ffb18bc52aaed.bindPopup(popup_5b95709aa47245918a7f1a28ecec9ef2)
+        ;
+
+        
+    
+    
+            var circle_marker_48215197d0cf4119bee4514477131de2 = L.circleMarker(
+                [22.5168752, 88.3458448],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_2b7a41b1d3844cf881c1f3162a1517a8 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_dd1563dcc96e4a19a4ea6f6beaef9c7c = $(`<div id="html_dd1563dcc96e4a19a4ea6f6beaef9c7c" style="width: 100.0%; height: 100.0%;"><stong>Kalighat Kolkata  Metro Sation</stong></div>`)[0];
+            popup_2b7a41b1d3844cf881c1f3162a1517a8.setContent(html_dd1563dcc96e4a19a4ea6f6beaef9c7c);
+        
+
+        circle_marker_48215197d0cf4119bee4514477131de2.bindPopup(popup_2b7a41b1d3844cf881c1f3162a1517a8)
+        ;
+
+        
+    
+    
+            var circle_marker_3f7e27ef7ed14cf389b167053db3d3ab = L.circleMarker(
+                [22.5241535, 88.3464729],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_18681462deac4a6d86c3cca3f02ee5a8 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_658fe0f152874ab9b890412a8c10baae = $(`<div id="html_658fe0f152874ab9b890412a8c10baae" style="width: 100.0%; height: 100.0%;"><stong>Jatin Das Park Kolkata  Metro Sation</stong></div>`)[0];
+            popup_18681462deac4a6d86c3cca3f02ee5a8.setContent(html_658fe0f152874ab9b890412a8c10baae);
+        
+
+        circle_marker_3f7e27ef7ed14cf389b167053db3d3ab.bindPopup(popup_18681462deac4a6d86c3cca3f02ee5a8)
+        ;
+
+        
+    
+    
+            var circle_marker_7feb6d7ab51f461ca3f8dac2e8973646 = L.circleMarker(
+                [22.5809206, 88.3613271],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_7026bf563411448eb0ebed7c3489338e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7572752666ed45109b53a04cece77999 = $(`<div id="html_7572752666ed45109b53a04cece77999" style="width: 100.0%; height: 100.0%;"><stong>Mahatma Gandhi Road Kolkata  Metro Sation</stong></div>`)[0];
+            popup_7026bf563411448eb0ebed7c3489338e.setContent(html_7572752666ed45109b53a04cece77999);
+        
+
+        circle_marker_7feb6d7ab51f461ca3f8dac2e8973646.bindPopup(popup_7026bf563411448eb0ebed7c3489338e)
+        ;
+
+        
+    
+    
+            var circle_marker_8b7b0ea3e0ee4dd896531d1e42b5e911 = L.circleMarker(
+                [22.472016, 88.3979047],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_4d615e0eec76470d89651aac2285558f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a68b1236243043ab996429d6fa284521 = $(`<div id="html_a68b1236243043ab996429d6fa284521" style="width: 100.0%; height: 100.0%;"><stong>Kavi Subhash Kolkata  Metro Sation</stong></div>`)[0];
+            popup_4d615e0eec76470d89651aac2285558f.setContent(html_a68b1236243043ab996429d6fa284521);
+        
+
+        circle_marker_8b7b0ea3e0ee4dd896531d1e42b5e911.bindPopup(popup_4d615e0eec76470d89651aac2285558f)
+        ;
+
+        
+    
+    
+            var circle_marker_a668c8b1203d450fb4e908dd57ac1657 = L.circleMarker(
+                [22.5072216, 88.3454936],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_ff60e74979894302bb59290363e57a63 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_73b004cf935d4bd49b3d875b5feeef91 = $(`<div id="html_73b004cf935d4bd49b3d875b5feeef91" style="width: 100.0%; height: 100.0%;"><stong>Rabindra Sarobar Kolkata  Metro Sation</stong></div>`)[0];
+            popup_ff60e74979894302bb59290363e57a63.setContent(html_73b004cf935d4bd49b3d875b5feeef91);
+        
+
+        circle_marker_a668c8b1203d450fb4e908dd57ac1657.bindPopup(popup_ff60e74979894302bb59290363e57a63)
+        ;
+
+        
+    
+    
+            var circle_marker_ce92887c541547e7965660cc3a5866a1 = L.circleMarker(
+                [22.47358645, 88.36067318],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_2f7d9dea11154c678d67373a344c1fe0 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_866110de738e4201802c76e74b02baec = $(`<div id="html_866110de738e4201802c76e74b02baec" style="width: 100.0%; height: 100.0%;"><stong>Masterda Surya Sen Kolkata  Metro Sation</stong></div>`)[0];
+            popup_2f7d9dea11154c678d67373a344c1fe0.setContent(html_866110de738e4201802c76e74b02baec);
+        
+
+        circle_marker_ce92887c541547e7965660cc3a5866a1.bindPopup(popup_2f7d9dea11154c678d67373a344c1fe0)
+        ;
+
+        
+    
+    
+            var circle_marker_ab03e37fe3354efc838a6c6296f45da4 = L.circleMarker(
+                [22.4809928, 88.3460002],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_b30fa9a2444b495caa8a42d7a7c64277 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3155f449f7d0426c8bc7e21ced02561f = $(`<div id="html_3155f449f7d0426c8bc7e21ced02561f" style="width: 100.0%; height: 100.0%;"><stong>Netaji Kolkata  Metro Sation</stong></div>`)[0];
+            popup_b30fa9a2444b495caa8a42d7a7c64277.setContent(html_3155f449f7d0426c8bc7e21ced02561f);
+        
+
+        circle_marker_ab03e37fe3354efc838a6c6296f45da4.bindPopup(popup_b30fa9a2444b495caa8a42d7a7c64277)
+        ;
+
+        
+    
+    
+            var circle_marker_e38a743af1b34d24955a1f0c42d160d1 = L.circleMarker(
+                [22.5721451, 88.3902926],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_9d2d348c67fd46c28bc30ee553894789 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0ee0b1abf4dc4dddad18c7aa30d6448f = $(`<div id="html_0ee0b1abf4dc4dddad18c7aa30d6448f" style="width: 100.0%; height: 100.0%;"><stong>Phoolbagan Kolkata  Metro Sation</stong></div>`)[0];
+            popup_9d2d348c67fd46c28bc30ee553894789.setContent(html_0ee0b1abf4dc4dddad18c7aa30d6448f);
+        
+
+        circle_marker_e38a743af1b34d24955a1f0c42d160d1.bindPopup(popup_9d2d348c67fd46c28bc30ee553894789)
+        ;
+
+        
+    
+    
+            var circle_marker_ba4ed6cf18c74e6b95692025a4001c4c = L.circleMarker(
+                [22.5730672, 88.403089],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_0b6da93b892b461dab145cf78888b842 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_98d8d8304c784ab48ae375f1ff38e63b = $(`<div id="html_98d8d8304c784ab48ae375f1ff38e63b" style="width: 100.0%; height: 100.0%;"><stong>Salt Lake Stadium Kolkata  Metro Sation</stong></div>`)[0];
+            popup_0b6da93b892b461dab145cf78888b842.setContent(html_98d8d8304c784ab48ae375f1ff38e63b);
+        
+
+        circle_marker_ba4ed6cf18c74e6b95692025a4001c4c.bindPopup(popup_0b6da93b892b461dab145cf78888b842)
+        ;
+
+        
+    
+    
+            var circle_marker_344451c10f234b3dae7041699c8e7467 = L.circleMarker(
+                [22.4642505, 88.3804604],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_7a1e588f9cfc483ba6e7553542ccf8d7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7d90272e085d4bd89ad2243e1080a7c4 = $(`<div id="html_7d90272e085d4bd89ad2243e1080a7c4" style="width: 100.0%; height: 100.0%;"><stong>Kavi Nazrul Kolkata  Metro Sation</stong></div>`)[0];
+            popup_7a1e588f9cfc483ba6e7553542ccf8d7.setContent(html_7d90272e085d4bd89ad2243e1080a7c4);
+        
+
+        circle_marker_344451c10f234b3dae7041699c8e7467.bindPopup(popup_7a1e588f9cfc483ba6e7553542ccf8d7)
+        ;
+
+        
+    
+    
+            var circle_marker_aff90228d8094928ad5016fa3337a508 = L.circleMarker(
+                [22.5636143, 88.3512099],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_e0f80b8ff61b4f14a7d4751f4d3c32b9 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3c9bf19368334b5aa563ebca50d1fd03 = $(`<div id="html_3c9bf19368334b5aa563ebca50d1fd03" style="width: 100.0%; height: 100.0%;"><stong>Esplanade Kolkata  Metro Sation</stong></div>`)[0];
+            popup_e0f80b8ff61b4f14a7d4751f4d3c32b9.setContent(html_3c9bf19368334b5aa563ebca50d1fd03);
+        
+
+        circle_marker_aff90228d8094928ad5016fa3337a508.bindPopup(popup_e0f80b8ff61b4f14a7d4751f4d3c32b9)
+        ;
+
+        
+    
+    
+            var circle_marker_3aaeb1146c194fd6b9b2115894365ba7 = L.circleMarker(
+                [22.6211141, 88.3928973],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_e267f78117ce4624aba47bae0aecbd22 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0f8498799e304b04a4c1ce1f862b3b01 = $(`<div id="html_0f8498799e304b04a4c1ce1f862b3b01" style="width: 100.0%; height: 100.0%;"><stong>Dum Dum Kolkata  Metro Sation</stong></div>`)[0];
+            popup_e267f78117ce4624aba47bae0aecbd22.setContent(html_0f8498799e304b04a4c1ce1f862b3b01);
+        
+
+        circle_marker_3aaeb1146c194fd6b9b2115894365ba7.bindPopup(popup_e267f78117ce4624aba47bae0aecbd22)
+        ;
+
+        
+    
+    
+            var circle_marker_d79b1d9c924749bd85c624ec5aca0106 = L.circleMarker(
+                [22.4891514, 88.40683779],
+                {"bubblingMouseEvents": true, "color": "#3388ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3388ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 2}
+            ).addTo(map_ee022484215748b88dbc3c64a16476ff);
+        
+    
+        var popup_3dbc46220a4d4d8dbaa5ff1c1d14900e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5d5444e53bf2450cbf62e0bc056a5a89 = $(`<div id="html_5d5444e53bf2450cbf62e0bc056a5a89" style="width: 100.0%; height: 100.0%;"><stong>Central Park Kolkata  Metro Sation</stong></div>`)[0];
+            popup_3dbc46220a4d4d8dbaa5ff1c1d14900e.setContent(html_5d5444e53bf2450cbf62e0bc056a5a89);
+        
+
+        circle_marker_d79b1d9c924749bd85c624ec5aca0106.bindPopup(popup_3dbc46220a4d4d8dbaa5ff1c1d14900e)
+        ;
+
+        
+    
+</script>

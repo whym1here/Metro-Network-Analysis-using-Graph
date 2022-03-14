@@ -1,6 +1,6 @@
 import sys
 
-city_name = 'delhi'
+city_name = 'kolkata'
 
 sys.stdout = open(f"{city_name}.txt", 'w')
 

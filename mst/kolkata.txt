@@ -1,0 +1,1 @@
+total length of metro line = 40.943931585650546 km

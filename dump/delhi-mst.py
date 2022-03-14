@@ -1,10 +1,3 @@
-import sys
-import os.path
-
-from numpy import append
-
-sys.stdout = open("output.txt", 'w')
-
 from math import *
 import pandas as pd
 import folium
@@ -60,48 +53,6 @@ def distance(station1, station2):
     # calculate the result
     return(c * r)
 
-def kruskal(edge_list, n, station_data):
-    dsu = DSU(n)
-
-    included_edges = []
-    lat_long_included_edges = []
-
-    total_length = 0
-
-    for it in edge_list:
-        wt = it[0]
-        x = it[1]
-        y = it[2]
-        x_name = it[3]
-        y_name = it[4]
-
-        if(dsu.find(x) != dsu.find(y)):
-            dsu.join(x, y)
-            total_length += wt
-            included_edges.append([x_name, y_name])
-            lat_long_included_edges.append([
-                [station_data[x_name]['Latitude'], station_data[x_name]['Longitude']],
-                [station_data[y_name]['Latitude'], station_data[y_name]['Longitude']]
-            ])
-    
-    # for ele in lat_long_included_edges:
-    #     print(ele)
-
-    return (total_length, included_edges, lat_long_included_edges)
-        
-def add_line(points, map):
-    folium.PolyLine(
-        points,
-        color = 'red'
-    ).add_to(map)
-
-def add_point(name, lat, lon, map):
-    marker = folium.CircleMarker(
-        location = [lat,lon],
-        popup = f"<stong>{name} Metro Sation</stong>",
-        radius = 1, weight = 2)
-    marker.add_to(map)
-
 if __name__ == "__main__":
     filename = r'../dataset/delhi-metro-data.csv'
     df = pd.read_csv(filename)
@@ -115,15 +66,13 @@ if __name__ == "__main__":
             'Longitude': row['Longitude']
         }
         name_to_int[row['Station Name']] = cur
+        int_to_name[cur] = row['Station Name']
         cur += 1
-    
-    for key, val in name_to_int.items():
-        int_to_name[val] = key
     
     edge_list = list()
     for i in range(len(station_data)):
         for j in range(len(station_data)):
-            if(i in int_to_name.keys() and j in int_to_name.keys() and int_to_name[i] != int_to_name[j]):
+            if(i != j):
                 edge_list.append([
                     distance(
                         station_data[int_to_name[i]], 
@@ -135,19 +84,30 @@ if __name__ == "__main__":
                 ])
     
     edge_list.sort()
+    print(edge_list)
 
-    # for ele in edge_list:
-    #     print(ele)
     
-    total_length, included_edges, lat_long_included_edges = kruskal(edge_list, len(station_data), station_data)
 
-    map = folium.Map(location=[28.7165805, 77.1704223], zoom_start=10)
-        
-    for it in lat_long_included_edges:
-        add_line(it, map)
 
-    for index, row in df.iterrows():
-        add_point(row['Station Name'], row['Latitude'], row['Longitude'], map)
+    
 
-    print(f"total length of metro line = {total_length} km")
-    map.save('delhi-metro-station.html')
+
+
+
+
+
+# map = folium.Map(location=[28.7165805, 77.1704223], zoom_start=10)
+
+# tooltip = "Click Here For More Info"
+
+# def add_point(name, lat, lon, map):
+#     marker = folium.CircleMarker(
+#         location = [lat,lon],
+#         popup = f"<stong>{name} Metro Sation</stong>",
+#         radius = 1, weight = 2)
+#     marker.add_to(map)
+
+# for index, row in df.iterrows():
+#     add_point(row['Station Name'], row['Latitude'], row['Longitude'], map)
+    
+# map.save('delhi-metro-station.html')
