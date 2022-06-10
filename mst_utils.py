@@ -62,7 +62,7 @@ def distance(station1, station2):
     r = 6371
       
     # calculate the result
-    return(c * r)
+    return (c * r)
 
 def kruskal(edge_list, n, station_data):
     dsu = DSU(n)
@@ -93,30 +93,30 @@ def kruskal(edge_list, n, station_data):
 
     return (total_length, included_edges, lat_long_included_edges)
         
-def add_line(points, map):
+def add_line(points, map_, color = 'red'):
     folium.PolyLine(
         points,
-        color = 'red'
-    ).add_to(map)
+        color = color
+    ).add_to(map_)
 
-def add_point(name, lat, lon, map):
+def add_point(name, lat, lon, map_):
     marker = folium.CircleMarker(
         location = [lat,lon],
         popup = f"<stong>{name} Metro Sation</stong>",
         radius = 1, weight = 2)
-    marker.add_to(map)
+    marker.add_to(map_)
 
 def gen_mst(city_name, df):
     name_to_int = dict()
     int_to_name = dict()
     cur = 0
     station_data = {}
-    for index, row in df.iterrows():
-        station_data[row['Station Name']] = {
-            'Latitude': row['Latitude'],
-            'Longitude': row['Longitude']
+    for index in df.index:
+        station_data[df['Station Name'][index]] = {
+            'Latitude': df['Latitude'][index],
+            'Longitude': df['Longitude'][index]
         }
-        name_to_int[row['Station Name']] = cur
+        name_to_int[df['Station Name'][index]] = cur
         cur += 1
     
     for key, val in name_to_int.items():
@@ -142,15 +142,120 @@ def gen_mst(city_name, df):
     #     print(ele)
     
     total_length, included_edges, lat_long_included_edges = kruskal(edge_list, len(station_data), station_data)
-    df['Latitude'].mean()
-    map = folium.Map(location=[df['Latitude'].mean(), df['Longitude'].mean()], zoom_start=10)
+    # df['Latitude'].mean()
+    map_ = folium.Map(location=[df['Latitude'].mean(), df['Longitude'].mean()], zoom_start=10)
         
     for it in lat_long_included_edges:
-        add_line(it, map)
+        add_line(it, map_)
 
     for index, row in df.iterrows():
-        add_point(row['Station Name'], row['Latitude'], row['Longitude'], map)
+        add_point(row['Station Name'], row['Latitude'], row['Longitude'], map_)
 
     print(f"total length of metro line = {total_length} km")
     # map.save(f'{city_name.lower()}-metro-station.html')
-    return map
+    return map_
+
+def get_mutiple_mst(cityname, df_lst, colors):
+    
+    def get_geocoder(address):
+        try:
+            import geopy
+            locator = geopy.geocoders.Nominatim(user_agent="myGeocoder")
+            location = locator.geocode(address)
+            # print(location)
+            return [location.latitude, location.longitude]
+        except:
+            return [21.2379469, 81.6336833]
+
+    map_ = folium.Map(location = get_geocoder(address = cityname), zoom_start = 10)
+
+    for index, row in df_lst[0].iterrows():
+        add_point(row['Station Name'], row['Latitude'], row['Longitude'], map_)
+
+    def add_lines_points(df, color):
+        name_to_int = dict()
+        int_to_name = dict()
+        cur = 0
+        station_data = {}
+        for index in df.index:
+            station_data[df['Station Name'][index]] = {
+                'Latitude': df['Latitude'][index],
+                'Longitude': df['Longitude'][index]
+            }
+            name_to_int[df['Station Name'][index]] = cur
+            cur += 1
+        
+        for key, val in name_to_int.items():
+            int_to_name[val] = key
+        
+        edge_list = list()
+        for i in range(len(station_data)):
+            for j in range(len(station_data)):
+                if(i in int_to_name.keys() and j in int_to_name.keys() and int_to_name[i] != int_to_name[j]):
+                    edge_list.append([
+                        distance(
+                            station_data[int_to_name[i]], 
+                            station_data[int_to_name[j]]
+                        ),
+                        i, j, 
+                        int_to_name[i],
+                        int_to_name[j]
+                    ])
+        
+        edge_list.sort()
+
+        total_length, included_edges, lat_long_included_edges = kruskal(edge_list, len(station_data), station_data)
+        
+        for it in lat_long_included_edges:
+            add_line(it, map_, color)
+
+        for index, row in df.iterrows():
+            add_point(row['Station Name'], row['Latitude'], row['Longitude'], map_)
+
+        print(f'{color} metro network is of length: {total_length}')
+
+    for i in range(len(df_lst)):
+        add_lines_points(df_lst[i], colors[i])
+    
+    return map_
+    
+
+def get_edge_list(df):
+    name_to_int = dict()
+    int_to_name = dict()
+    cur = 0
+    station_data = {}
+    for index in df.index:
+        station_data[df['Station Name'][index]] = {
+            'Latitude': df['Latitude'][index],
+            'Longitude': df['Longitude'][index]
+        }
+        name_to_int[df['Station Name'][index]] = cur
+        cur += 1
+    
+    for key, val in name_to_int.items():
+        int_to_name[val] = key
+    
+    edge_list = list()
+    for i in range(len(station_data)):
+        for j in range(len(station_data)):
+            if(i in int_to_name.keys() and j in int_to_name.keys() and int_to_name[i] != int_to_name[j]):
+                edge_list.append([
+                    distance(
+                        station_data[int_to_name[i]], 
+                        station_data[int_to_name[j]]
+                    ),
+                    i, j, 
+                    int_to_name[i],
+                    int_to_name[j]
+                ])
+
+    edge_list.sort()
+    total_length, included_edges, lat_long_included_edges = kruskal(edge_list, len(station_data), station_data)
+    return {
+        "total_length": total_length,
+        "included_edges": included_edges,
+        "lat_long_included_edges": lat_long_included_edges,
+        "name_to_int": name_to_int,
+        "int_to_name": int_to_name
+    }
